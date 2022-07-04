@@ -5,7 +5,7 @@
     "@symfony/webpack-encore": "2.1.0",
     "@types/jquery": "3.5.14",
     "@types/winbox": "0.2.1",
-    "@typescript-eslint/eslint-plugin": "5.29.0",
+    "@typescript-eslint/eslint-plugin": "5.30.4",
     "@typescript-eslint/parser": "5.29.0",
     "@ungap/custom-elements": "1.1.0",
     "@vue/compiler-sfc": "3.2.37",
