@@ -2,7 +2,7 @@
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@popperjs/core": "2.11.5",
-    "@symfony/webpack-encore": "2.1.0",
+    "@symfony/webpack-encore": "3.0.0",
     "@types/jquery": "3.5.14",
     "@types/winbox": "0.2.1",
     "@typescript-eslint/eslint-plugin": "5.29.0",
