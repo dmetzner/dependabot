@@ -39,7 +39,7 @@
     "postcss-preset-env": "7.7.1",
     "postcss-pxtorem": "6.0.0",
     "postcss-sort-media-queries": "4.2.1",
-    "sass": "1.52.3",
+    "sass": "1.54.4",
     "sass-loader": "12.6.0",
     "stylelint": "14.9.1",
     "stylelint-config-standard-scss": "4.0.0",
