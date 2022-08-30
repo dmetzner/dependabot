@@ -46,7 +46,7 @@
     "swiper": "8.2.4",
     "ts-loader": "9.3.0",
     "typescript": "4.7.4",
-    "vue": "3.2.37",
+    "vue": "3.2.38",
     "vue-loader": "17.0.0",
     "vue3-barcode-scanner": "1.0.4",
     "webpack-notifier": "1.15.0",
