@@ -15,7 +15,7 @@
     "bowser": "2.11.0",
     "breakpoint-sass": "3.0.0",
     "coa": "2.0.2",
-    "core-js": "3.25.1",
+    "core-js": "3.25.3",
     "cross-env": "7.0.3",
     "cypress": "10.7.0",
     "cypress-plugin-snapshots": "1.4.4",
