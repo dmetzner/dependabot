@@ -51,7 +51,7 @@
     "vue": "3.2.39",
     "vue-debounce": "^4.0.0",
     "vue-loader": "17.0.0",
-    "vue3-barcode-scanner": "1.0.4",
+    "vue3-barcode-scanner": "1.0.8",
     "webpack-notifier": "1.15.0",
     "winbox": "0.2.6",
     "yarn-audit-fix": "9.3.5"
