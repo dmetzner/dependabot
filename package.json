@@ -11,7 +11,7 @@
     "@ungap/custom-elements": "1.1.0",
     "@vue/compiler-sfc": "3.2.39",
     "bootstrap": "5.2.1",
-    "bootstrap-icons": "1.9.1",
+    "bootstrap-icons": "1.10.2",
     "bowser": "2.11.0",
     "breakpoint-sass": "3.0.0",
     "coa": "2.0.2",
