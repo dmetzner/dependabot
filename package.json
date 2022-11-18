@@ -32,7 +32,7 @@
     "jquery": "3.6.1",
     "mini-css-extract-plugin": "2.6.1",
     "n": "9.0.0",
-    "pinia": "2.0.22",
+    "pinia": "2.0.24",
     "popper.js": "1.16.1",
     "postcss": "8.4.16",
     "postcss-combine-duplicated-selectors": "10.0.3",
