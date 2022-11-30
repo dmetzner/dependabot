@@ -30,7 +30,7 @@
     "imagemin-optipng": "8.0.0",
     "imagemin-svgo": "10.0.1",
     "jquery": "3.6.1",
-    "mini-css-extract-plugin": "2.6.1",
+    "mini-css-extract-plugin": "2.7.1",
     "n": "9.0.0",
     "pinia": "2.0.22",
     "popper.js": "1.16.1",
