@@ -69,7 +69,7 @@
     "klarna/kco_rest": "4.1.1",
     "paypal/rest-api-sdk-php": "1.14.*",
     "adyen/php-api-library": "^13.0",
-    "cybercog/youtrack-rest-php": "6.3.*",
+    "cybercog/youtrack-rest-php": "7.0.*",
     "lcobucci/jwt": "3.4.6",
     "graylog2/gelf-php": "1.7.*",
     "laminas/laminas-code": "4.*",
