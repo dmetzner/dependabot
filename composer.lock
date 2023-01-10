@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36c1242bb4f66a526e663ff1dc59917c",
+    "content-hash": "7272052d27ec4551aed35a400a6dfedd",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -5128,16 +5128,16 @@
         },
         {
             "name": "mezzio/mezzio-csrf",
-            "version": "1.5.0",
+            "version": "1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mezzio/mezzio-csrf.git",
-                "reference": "e1ffbc6ab11beca946493fca4d9200d9e4046edf"
+                "reference": "3c637ebec55019b2b1c834e03da73e348ecb7735"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mezzio/mezzio-csrf/zipball/e1ffbc6ab11beca946493fca4d9200d9e4046edf",
-                "reference": "e1ffbc6ab11beca946493fca4d9200d9e4046edf",
+                "url": "https://api.github.com/repos/mezzio/mezzio-csrf/zipball/3c637ebec55019b2b1c834e03da73e348ecb7735",
+                "reference": "3c637ebec55019b2b1c834e03da73e348ecb7735",
                 "shasum": ""
             },
             "require": {
@@ -5199,7 +5199,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2022-02-03T10:07:37+00:00"
+            "time": "2022-09-13T07:41:51+00:00"
         },
         {
             "name": "mezzio/mezzio-fastroute",
@@ -13267,5 +13267,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }

@@ -97,7 +97,7 @@
     "mezzio/mezzio": "3.6.*",
     "mezzio/mezzio-fastroute": "3.5.*",
     "mezzio/mezzio-helpers": "5.8.*",
-    "mezzio/mezzio-csrf": "1.5.*",
+    "mezzio/mezzio-csrf": "1.6.*",
     "mezzio/mezzio-flash": "1.3.*",
     "mezzio/mezzio-session": "1.6.*",
     "mezzio/mezzio-session-ext": "1.7.*",
