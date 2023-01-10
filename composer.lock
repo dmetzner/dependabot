@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36c1242bb4f66a526e663ff1dc59917c",
+    "content-hash": "b21e2b6b390a0164af446391f7fb76b0",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -2660,16 +2660,16 @@
         },
         {
             "name": "laminas/laminas-filter",
-            "version": "2.13.2",
+            "version": "2.15.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-filter.git",
-                "reference": "3da1df596b023fb0387a1dbb0e77e536afd9d1af"
+                "reference": "a9295b93df24bcd90e9b87f470e5a0a0250d07ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-filter/zipball/3da1df596b023fb0387a1dbb0e77e536afd9d1af",
-                "reference": "3da1df596b023fb0387a1dbb0e77e536afd9d1af",
+                "url": "https://api.github.com/repos/laminas/laminas-filter/zipball/a9295b93df24bcd90e9b87f470e5a0a0250d07ee",
+                "reference": "a9295b93df24bcd90e9b87f470e5a0a0250d07ee",
                 "shasum": ""
             },
             "require": {
@@ -2683,7 +2683,7 @@
             "require-dev": {
                 "laminas/laminas-coding-standard": "^2.3.0",
                 "laminas/laminas-crypt": "^3.5.1",
-                "laminas/laminas-servicemanager": "^3.7.0",
+                "laminas/laminas-servicemanager": "^3.14.0",
                 "laminas/laminas-uri": "^2.9.1",
                 "pear/archive_tar": "^1.4.14",
                 "phpspec/prophecy-phpunit": "^2.0.1",
@@ -2735,7 +2735,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2022-02-07T13:14:03+00:00"
+            "time": "2022-07-12T14:07:29+00:00"
         },
         {
             "name": "laminas/laminas-http",
@@ -13267,5 +13267,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
