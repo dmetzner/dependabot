@@ -121,7 +121,7 @@
     "guzzlehttp/guzzle": "6.5.*",
     "googleads/google-ads-php": "14.0.*",
     "jordanbrauer/unit-converter": "0.8.8",
-    "markbaker/complex": "3.0.0",
+    "markbaker/complex": "3.0.2",
     "phpoffice/phpspreadsheet": "1.23.*",
     "soundasleep/html2text": "^2.0"
   },
