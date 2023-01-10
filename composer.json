@@ -99,7 +99,7 @@
     "mezzio/mezzio-helpers": "5.8.*",
     "mezzio/mezzio-csrf": "1.5.*",
     "mezzio/mezzio-flash": "1.3.*",
-    "mezzio/mezzio-session": "1.6.*",
+    "mezzio/mezzio-session": "1.11.*",
     "mezzio/mezzio-session-ext": "1.7.*",
     "mezzio/mezzio-authentication": "1.4.*",
     "mezzio/mezzio-authentication-basic": "1.3.*",
