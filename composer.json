@@ -126,7 +126,7 @@
     "soundasleep/html2text": "^2.0"
   },
   "require-dev": {
-    "laminas/laminas-development-mode": "3.6.*",
+    "laminas/laminas-development-mode": "3.8.*",
     "filp/whoops": "2.14.*",
     "nikic/php-parser": "*",
     "php-webdriver/webdriver": "*",
