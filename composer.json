@@ -66,7 +66,7 @@
     "phpseclib/phpseclib": "2.0.*",
     "amzn/amazon-pay-sdk-php": "3.7.*",
     "php-ds/php-ds": "1.4.*",
-    "klarna/kco_rest": "4.1.1",
+    "klarna/kco_rest": "4.2.3",
     "paypal/rest-api-sdk-php": "1.14.*",
     "adyen/php-api-library": "^13.0",
     "cybercog/youtrack-rest-php": "6.3.*",
