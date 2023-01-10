@@ -95,7 +95,7 @@
     "laminas/laminas-validator": "2.16.*",
     "laminas/laminas-zendframework-bridge": "1.4.*",
     "mezzio/mezzio": "3.6.*",
-    "mezzio/mezzio-fastroute": "3.5.*",
+    "mezzio/mezzio-fastroute": "3.6.*",
     "mezzio/mezzio-helpers": "5.8.*",
     "mezzio/mezzio-csrf": "1.5.*",
     "mezzio/mezzio-flash": "1.3.*",
