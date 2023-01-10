@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36c1242bb4f66a526e663ff1dc59917c",
+    "content-hash": "e4fe86d656e798fa732b93674fe43c07",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -5282,29 +5282,31 @@
         },
         {
             "name": "mezzio/mezzio-flash",
-            "version": "1.3.0",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mezzio/mezzio-flash.git",
-                "reference": "6ba46e5c8c27b51ef336c9e2d173677454f404fc"
+                "reference": "595a8f6815b0d2ef738d277829d4d246b09b459e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mezzio/mezzio-flash/zipball/6ba46e5c8c27b51ef336c9e2d173677454f404fc",
-                "reference": "6ba46e5c8c27b51ef336c9e2d173677454f404fc",
+                "url": "https://api.github.com/repos/mezzio/mezzio-flash/zipball/595a8f6815b0d2ef738d277829d4d246b09b459e",
+                "reference": "595a8f6815b0d2ef738d277829d4d246b09b459e",
                 "shasum": ""
             },
             "require": {
                 "mezzio/mezzio-session": "^1.0",
-                "php": "^7.3 || ~8.0.0 || ~8.1.0",
+                "php": "^7.4 || ~8.0.0 || ~8.1.0",
                 "psr/http-server-middleware": "^1.0"
             },
             "conflict": {
                 "zendframework/zend-expressive-flash": "*"
             },
             "require-dev": {
-                "laminas/laminas-coding-standard": "~2.2.0",
-                "phpunit/phpunit": "^9.3"
+                "laminas/laminas-coding-standard": "~2.4.0",
+                "phpunit/phpunit": "^9.5.24",
+                "psalm/plugin-phpunit": "^0.16.1",
+                "vimeo/psalm": "^4.9"
             },
             "type": "library",
             "extra": {
@@ -5346,7 +5348,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2021-09-14T04:01:00+00:00"
+            "time": "2022-09-14T08:14:01+00:00"
         },
         {
             "name": "mezzio/mezzio-helpers",
@@ -13267,5 +13269,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
