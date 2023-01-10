@@ -107,7 +107,7 @@
     "mezzio/mezzio-authentication-oauth2": "2.3.*",
     "google/cloud-bigquery": "1.23.*",
     "league/oauth2-client": "2.6.*",
-    "league/oauth2-facebook": "2.1.*",
+    "league/oauth2-facebook": "2.2.*",
     "league/oauth2-google": "3.0.*",
     "google/cloud-core": "1.44.*",
     "google/cloud-translate": "1.12.*",
