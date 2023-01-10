@@ -90,7 +90,7 @@
     "laminas/laminas-serializer": "2.12.*",
     "laminas/laminas-servicemanager": "3.10.*",
     "laminas/laminas-session": "2.12.*",
-    "laminas/laminas-stdlib": "3.7.*",
+    "laminas/laminas-stdlib": "3.13.*",
     "laminas/laminas-uri": "2.9.*",
     "laminas/laminas-validator": "2.16.*",
     "laminas/laminas-zendframework-bridge": "1.4.*",
