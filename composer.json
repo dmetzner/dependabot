@@ -75,7 +75,7 @@
     "laminas/laminas-code": "4.*",
     "laminas/laminas-component-installer": "2.6.*",
     "laminas/laminas-config-aggregator": "1.7.*",
-    "laminas/laminas-di": "3.3.*",
+    "laminas/laminas-di": "3.8.*",
     "laminas/laminas-diactoros": "2.17.*",
     "laminas/laminas-eventmanager": "3.4.*",
     "laminas/laminas-feed": "2.16.*",
