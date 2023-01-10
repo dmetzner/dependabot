@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36c1242bb4f66a526e663ff1dc59917c",
+    "content-hash": "37b244465d9fe2b8c1bf80564c67a5f7",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -2959,16 +2959,16 @@
         },
         {
             "name": "laminas/laminas-inputfilter",
-            "version": "2.13.0",
+            "version": "2.16.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-inputfilter.git",
-                "reference": "6124b3678051b792d1444be689cf9370531593a6"
+                "reference": "61381caf7d6423bbe15aecca60d8336100977a88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-inputfilter/zipball/6124b3678051b792d1444be689cf9370531593a6",
-                "reference": "6124b3678051b792d1444be689cf9370531593a6",
+                "url": "https://api.github.com/repos/laminas/laminas-inputfilter/zipball/61381caf7d6423bbe15aecca60d8336100977a88",
+                "reference": "61381caf7d6423bbe15aecca60d8336100977a88",
                 "shasum": ""
             },
             "require": {
@@ -3030,7 +3030,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2021-12-02T14:46:43+00:00"
+            "time": "2022-06-10T12:38:26+00:00"
         },
         {
             "name": "laminas/laminas-json",
@@ -13267,5 +13267,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
