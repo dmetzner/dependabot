@@ -73,7 +73,7 @@
     "lcobucci/jwt": "3.4.6",
     "graylog2/gelf-php": "1.7.*",
     "laminas/laminas-code": "4.*",
-    "laminas/laminas-component-installer": "2.6.*",
+    "laminas/laminas-component-installer": "3.0.*",
     "laminas/laminas-config-aggregator": "1.7.*",
     "laminas/laminas-di": "3.3.*",
     "laminas/laminas-diactoros": "2.17.*",
