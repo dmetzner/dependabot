@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36c1242bb4f66a526e663ff1dc59917c",
+    "content-hash": "67c19bbcab057dce116127c303562e17",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -4913,33 +4913,33 @@
         },
         {
             "name": "mezzio/mezzio-authentication-basic",
-            "version": "1.3.0",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mezzio/mezzio-authentication-basic.git",
-                "reference": "02773a4ccc2990194a1df0b93a2c74014459d7c0"
+                "reference": "9d521b75a6f713b8d521c06892c380da77f4e464"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mezzio/mezzio-authentication-basic/zipball/02773a4ccc2990194a1df0b93a2c74014459d7c0",
-                "reference": "02773a4ccc2990194a1df0b93a2c74014459d7c0",
+                "url": "https://api.github.com/repos/mezzio/mezzio-authentication-basic/zipball/9d521b75a6f713b8d521c06892c380da77f4e464",
+                "reference": "9d521b75a6f713b8d521c06892c380da77f4e464",
                 "shasum": ""
             },
             "require": {
                 "mezzio/mezzio-authentication": "^1.0",
                 "php": "^7.4 || ~8.0.0 || ~8.1.0",
-                "psr/container": "^1.0",
+                "psr/container": "^1.0 || ^2.0",
+                "psr/http-factory": "^1.0",
                 "psr/http-message": "^1.0.1"
             },
             "conflict": {
                 "zendframework/zend-expressive-authentication-basic": "*"
             },
             "require-dev": {
-                "laminas/laminas-coding-standard": "~2.3",
-                "phpspec/prophecy": "^1.12",
-                "phpspec/prophecy-phpunit": "^2.0",
-                "phpunit/phpunit": "^9.5.8",
-                "psalm/plugin-phpunit": "^0.16"
+                "laminas/laminas-coding-standard": "~2.4.0",
+                "phpunit/phpunit": "^9.5.11",
+                "psalm/plugin-phpunit": "^0.17.0",
+                "vimeo/psalm": "^4.17.0"
             },
             "type": "library",
             "extra": {
@@ -4978,7 +4978,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2022-01-05T19:22:32+00:00"
+            "time": "2022-09-20T10:49:21+00:00"
         },
         {
             "name": "mezzio/mezzio-authentication-oauth2",
@@ -8893,16 +8893,16 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.26.0",
+            "version": "v1.27.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "6fd1b9a79f6e3cf65f9e679b23af304cd9e010d4"
+                "reference": "5bbc823adecdae860bb64756d639ecfec17b050a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/6fd1b9a79f6e3cf65f9e679b23af304cd9e010d4",
-                "reference": "6fd1b9a79f6e3cf65f9e679b23af304cd9e010d4",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/5bbc823adecdae860bb64756d639ecfec17b050a",
+                "reference": "5bbc823adecdae860bb64756d639ecfec17b050a",
                 "shasum": ""
             },
             "require": {
@@ -8917,7 +8917,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.26-dev"
+                    "dev-main": "1.27-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -8955,7 +8955,7 @@
                 "portable"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.26.0"
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.27.0"
             },
             "funding": [
                 {
@@ -8971,7 +8971,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-05-24T11:49:31+00:00"
+            "time": "2022-11-03T14:55:06+00:00"
         },
         {
             "name": "symfony/polyfill-intl-grapheme",
@@ -13267,5 +13267,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
