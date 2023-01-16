@@ -131,7 +131,7 @@
     "nikic/php-parser": "*",
     "php-webdriver/webdriver": "*",
     "friendsofphp/php-cs-fixer": "2.19.*",
-    "phpstan/phpstan": "1.4.*",
+    "phpstan/phpstan": "1.9.*",
     "squizlabs/php_codesniffer": "3.6.*",
     "micheh/phpcs-gitlab": "1.1.*",
     "phpunit/phpunit": "9.5.*",
