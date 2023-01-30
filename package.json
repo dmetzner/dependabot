@@ -96,7 +96,7 @@
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1",
     "react-stately": "3.20.0",
-    "swiper": "8.4.5",
+    "swiper": "8.4.7",
     "vue": "3.2.45",
     "vue-debounce": "4.0.0",
     "vue3-barcode-scanner": "1.0.8",

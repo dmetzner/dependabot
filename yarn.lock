@@ -18328,7 +18328,7 @@ __metadata:
     sass-loader: 13.2.0
     stylelint: 14.16.1
     stylelint-config-standard-scss: 6.1.0
-    swiper: 8.4.5
+    swiper: 8.4.7
     ts-loader: 9.4.2
     typescript: 4.9.4
     vue: 3.2.45
@@ -19674,13 +19674,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"swiper@npm:8.4.5":
-  version: 8.4.5
-  resolution: "swiper@npm:8.4.5"
+"swiper@npm:8.4.7":
+  version: 8.4.7
+  resolution: "swiper@npm:8.4.7"
   dependencies:
     dom7: ^4.0.4
     ssr-window: ^4.0.2
-  checksum: 7b790b897c4aeb616cae02517a1137dc3f8d552bcc3ecb2942ddf8e4ae75f2efeb28816d3d4e648248c3a24eb3611f2700f555372c15f7163cc2434da3ef8317
+  checksum: c52be6105e12984ba024f8cb4c0627919d4069172c0021ed7c5743c3709b5a814dd50d134813ea4f7019048be6ff9dda96db8f1adf38e317c8bb285574fcd006
   languageName: node
   linkType: hard
 
