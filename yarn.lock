@@ -16201,9 +16201,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pinia@npm:2.0.28":
-  version: 2.0.28
-  resolution: "pinia@npm:2.0.28"
+"pinia@npm:2.0.30":
+  version: 2.0.30
+  resolution: "pinia@npm:2.0.30"
   dependencies:
     "@vue/devtools-api": ^6.4.5
     vue-demi: "*"
@@ -16216,7 +16216,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: d515cd6220262560f1864855ab117bd16e4bf4ab3d6d279459281aa16960b5e84b6ddd4de3f1d863040a81539378451c1a14fddd32e7571b51e5d1c95911154d
+  checksum: 2522d3700e2d23f184ae65c36d764973ae4680e2fefbc7ca808524c706f5988ced1633606bfedae8c2a44042026528bac105a9437764d026d6323ddc40610e89
   languageName: node
   linkType: hard
 
@@ -18310,7 +18310,7 @@ __metadata:
     lottie-web: 5.10.1
     mini-css-extract-plugin: 2.7.2
     n: 9.0.1
-    pinia: 2.0.28
+    pinia: 2.0.30
     popper.js: 1.16.1
     postcss: 8.4.21
     postcss-combine-duplicated-selectors: 10.0.3
