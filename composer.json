@@ -23,7 +23,7 @@
   "require": {
     "ruler/ruler": "0.3.0",
     "google/apiclient": "2.4.1",
-    "google/apiclient-services": "0.160.0",
+    "google/apiclient-services": "0.286.0",
     "smarty/smarty": "3.1.47",
     "ext-bcmath": "*",
     "ext-ctype": "*",
