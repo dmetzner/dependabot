@@ -60,7 +60,7 @@
     "ext-xmlwriter": "*",
     "ext-zip": "*",
     "ext-zlib": "*",
-    "aws/aws-sdk-php": "3.209.*",
+    "aws/aws-sdk-php": "3.259.*",
     "google/auth": "1.18.*",
     "smalot/cups-ipp": "0.4.*",
     "phpseclib/phpseclib": "2.0.*",
