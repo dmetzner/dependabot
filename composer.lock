@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5000e8b5b3cbb1d87e5ad0ff12a6787b",
+    "content-hash": "4cbf65ecbe477e227a1155b83c5bd250",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -640,16 +640,16 @@
         },
         {
             "name": "doctrine/annotations",
-            "version": "1.14.2",
+            "version": "1.14.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/annotations.git",
-                "reference": "ad785217c1e9555a7d6c6c8c9f406395a5e2882b"
+                "reference": "fb0d71a7393298a7b232cbf4c8b1f73f3ec3d5af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/annotations/zipball/ad785217c1e9555a7d6c6c8c9f406395a5e2882b",
-                "reference": "ad785217c1e9555a7d6c6c8c9f406395a5e2882b",
+                "url": "https://api.github.com/repos/doctrine/annotations/zipball/fb0d71a7393298a7b232cbf4c8b1f73f3ec3d5af",
+                "reference": "fb0d71a7393298a7b232cbf4c8b1f73f3ec3d5af",
                 "shasum": ""
             },
             "require": {
@@ -710,9 +710,9 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/annotations/issues",
-                "source": "https://github.com/doctrine/annotations/tree/1.14.2"
+                "source": "https://github.com/doctrine/annotations/tree/1.14.3"
             },
-            "time": "2022-12-15T06:48:22+00:00"
+            "time": "2023-02-01T09:20:38+00:00"
         },
         {
             "name": "doctrine/deprecations",
@@ -10270,16 +10270,16 @@
         },
         {
             "name": "zircote/swagger-php",
-            "version": "4.6.0",
+            "version": "4.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zircote/swagger-php.git",
-                "reference": "ee8147745c92dd4404adb531751ce32676b888d4"
+                "reference": "f2bcbd5aa9d838d28bf5665c70f88eda6adc22cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zircote/swagger-php/zipball/ee8147745c92dd4404adb531751ce32676b888d4",
-                "reference": "ee8147745c92dd4404adb531751ce32676b888d4",
+                "url": "https://api.github.com/repos/zircote/swagger-php/zipball/f2bcbd5aa9d838d28bf5665c70f88eda6adc22cb",
+                "reference": "f2bcbd5aa9d838d28bf5665c70f88eda6adc22cb",
                 "shasum": ""
             },
             "require": {
@@ -10342,9 +10342,9 @@
             ],
             "support": {
                 "issues": "https://github.com/zircote/swagger-php/issues",
-                "source": "https://github.com/zircote/swagger-php/tree/4.6.0"
+                "source": "https://github.com/zircote/swagger-php/tree/4.7.0"
             },
-            "time": "2023-01-13T00:51:01+00:00"
+            "time": "2023-02-20T23:05:35+00:00"
         }
     ],
     "packages-dev": [
@@ -13372,5 +13372,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
