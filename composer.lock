@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5000e8b5b3cbb1d87e5ad0ff12a6787b",
+    "content-hash": "7218bb281a28a5354c442459c42580f0",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -7949,28 +7949,28 @@
         },
         {
             "name": "ruler/ruler",
-            "version": "v0.3.1",
+            "version": "v0.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/Ruler.git",
-                "reference": "5e78cc367b411f90585c0cf8678e67479725f38b"
+                "reference": "fd3f0d010fc4baa034cd3358f10d8f7eca938a32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/Ruler/zipball/5e78cc367b411f90585c0cf8678e67479725f38b",
-                "reference": "5e78cc367b411f90585c0cf8678e67479725f38b",
+                "url": "https://api.github.com/repos/bobthecow/Ruler/zipball/fd3f0d010fc4baa034cd3358f10d8f7eca938a32",
+                "reference": "fd3f0d010fc4baa034cd3358f10d8f7eca938a32",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0"
+                "php": ">=7.4"
             },
             "require-dev": {
-                "phpunit/phpunit": "4.8.35 | ^5.6.3 | ^6.5"
+                "phpunit/phpunit": "^8.5.12 | ^9"
             },
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Ruler\\": "src/Ruler"
+                    "Ruler\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -7984,7 +7984,7 @@
                     "homepage": "http://justinhileman.com/"
                 }
             ],
-            "description": "A simple stateless production rules engine for PHP 5.3.",
+            "description": "A simple stateless production rules engine for modern PHP.",
             "homepage": "https://github.com/bobthecow/Ruler",
             "keywords": [
                 "engine",
@@ -7992,9 +7992,9 @@
             ],
             "support": {
                 "issues": "https://github.com/bobthecow/Ruler/issues",
-                "source": "https://github.com/bobthecow/Ruler/tree/v0.3.1"
+                "source": "https://github.com/bobthecow/Ruler/tree/v0.4.0"
             },
-            "time": "2022-06-26T18:39:31+00:00"
+            "time": "2022-06-27T14:01:32+00:00"
         },
         {
             "name": "smalot/cups-ipp",
@@ -13372,5 +13372,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }

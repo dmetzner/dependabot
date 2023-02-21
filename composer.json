@@ -21,7 +21,7 @@
     "PEAR"
   ],
   "require": {
-    "ruler/ruler": "0.3.*",
+    "ruler/ruler": "0.4.*",
     "google/apiclient": "2.13.*",
     "google/apiclient-services": "0.285.*",
     "smarty/smarty": "4.3.*",
