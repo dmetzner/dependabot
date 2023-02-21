@@ -133,7 +133,7 @@
     "phpstan/phpstan": "1.9.*",
     "squizlabs/php_codesniffer": "3.7.*",
     "micheh/phpcs-gitlab": "1.1.*",
-    "phpunit/phpunit": "9.5.*",
+    "phpunit/phpunit": "9.6.*",
     "phpspec/prophecy": "~1.0",
     "fakerphp/faker": "^1.21"
   },
