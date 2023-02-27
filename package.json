@@ -76,7 +76,7 @@
   },
   "packageManager": "yarn@3.2.0",
   "dependencies": {
-    "@adobe/react-spectrum": "3.24.1",
+    "@adobe/react-spectrum": "3.25.0",
     "@popperjs/core": "2.11.6",
     "@spectrum-icons/color": "3.4.6",
     "@spectrum-icons/illustrations": "3.5.3",
