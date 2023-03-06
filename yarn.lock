@@ -95,9 +95,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@adyen/adyen-web@npm:^5.31.1":
-  version: 5.31.1
-  resolution: "@adyen/adyen-web@npm:5.31.1"
+"@adyen/adyen-web@npm:^5.35.0":
+  version: 5.35.0
+  resolution: "@adyen/adyen-web@npm:5.35.0"
   dependencies:
     "@babel/runtime": ^7.15.4
     "@babel/runtime-corejs3": ^7.20.1
@@ -106,7 +106,7 @@ __metadata:
     classnames: ^2.3.1
     core-js-pure: ^3.25.3
     preact: 10.11.3
-  checksum: c5b557d79a86e2a33cfede62653e334df03012536e0059a169f523cc1586e0f9fa403290361fd841e347e543d76505ea1f57784916b806d8e4672597b47c2b51
+  checksum: 3eecf548f131158117e565d1fc9819ba57fe9c92bc3e98ba5b16a007e9f094239f86d16a7330c3dee839aa92672b4cf4c2901e328f1ed8b88a7778afe33ccaa3
   languageName: node
   linkType: hard
 
@@ -18266,7 +18266,7 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     "@adobe/react-spectrum": 3.24.1
-    "@adyen/adyen-web": ^5.31.1
+    "@adyen/adyen-web": ^5.35.0
     "@babel/core": 7.20.12
     "@babel/plugin-syntax-flow": 7.18.6
     "@babel/plugin-transform-react-jsx": 7.20.7
