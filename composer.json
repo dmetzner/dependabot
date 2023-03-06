@@ -126,7 +126,7 @@
   },
   "require-dev": {
     "laminas/laminas-development-mode": "3.8.*",
-    "filp/whoops": "2.14.*",
+    "filp/whoops": "2.15.*",
     "nikic/php-parser": "*",
     "php-webdriver/webdriver": "*",
     "friendsofphp/php-cs-fixer": "2.19.*",
