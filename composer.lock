@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "91c0c9198fdbf9c07775e9b150aa4603",
+    "content-hash": "b08c1b06c5f360fc01da4284b4dc8c6a",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1661,16 +1661,16 @@
         },
         {
             "name": "googleads/google-ads-php",
-            "version": "v17.1.0",
+            "version": "v18.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleads/google-ads-php.git",
-                "reference": "151bab9bd37d46543bbeb2c3b0caedf91cb91b6b"
+                "reference": "cc0e5729313ded597100622a36261ef0bba52064"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleads/google-ads-php/zipball/151bab9bd37d46543bbeb2c3b0caedf91cb91b6b",
-                "reference": "151bab9bd37d46543bbeb2c3b0caedf91cb91b6b",
+                "url": "https://api.github.com/repos/googleads/google-ads-php/zipball/cc0e5729313ded597100622a36261ef0bba52064",
+                "reference": "cc0e5729313ded597100622a36261ef0bba52064",
                 "shasum": ""
             },
             "require": {
@@ -1718,9 +1718,9 @@
             "homepage": "https://github.com/googleads/google-ads-php",
             "support": {
                 "issues": "https://github.com/googleads/google-ads-php/issues",
-                "source": "https://github.com/googleads/google-ads-php/tree/v17.1.0"
+                "source": "https://github.com/googleads/google-ads-php/tree/v18.0.0"
             },
-            "time": "2022-11-03T15:03:37+00:00"
+            "time": "2023-02-22T16:36:08+00:00"
         },
         {
             "name": "graylog2/gelf-php",
@@ -13438,5 +13438,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
