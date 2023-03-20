@@ -65,7 +65,7 @@
     "smalot/cups-ipp": "0.4.*",
     "phpseclib/phpseclib": "3.0.*",
     "amzn/amazon-pay-sdk-php": "3.7.*",
-    "amzn/amazon-pay-api-sdk-php": "2.5.*",
+    "amzn/amazon-pay-api-sdk-php": "2.6.*",
     "php-ds/php-ds": "1.4.*",
     "klarna/kco_rest": "4.2.*",
     "paypal/rest-api-sdk-php": "1.14.*",

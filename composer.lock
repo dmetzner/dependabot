@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "91c0c9198fdbf9c07775e9b150aa4603",
+    "content-hash": "b7c25ae80077ec95ae10692d5431cf1d",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -59,16 +59,16 @@
         },
         {
             "name": "amzn/amazon-pay-api-sdk-php",
-            "version": "2.5.2",
+            "version": "2.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/amzn/amazon-pay-api-sdk-php.git",
-                "reference": "5b38287612427ecb0806d2cc626c92eb49173c6f"
+                "reference": "19186c9b165e95c05201f45eb6f93f0c967b24c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/amzn/amazon-pay-api-sdk-php/zipball/5b38287612427ecb0806d2cc626c92eb49173c6f",
-                "reference": "5b38287612427ecb0806d2cc626c92eb49173c6f",
+                "url": "https://api.github.com/repos/amzn/amazon-pay-api-sdk-php/zipball/19186c9b165e95c05201f45eb6f93f0c967b24c0",
+                "reference": "19186c9b165e95c05201f45eb6f93f0c967b24c0",
                 "shasum": ""
             },
             "require": {
@@ -108,9 +108,9 @@
             ],
             "support": {
                 "issues": "https://github.com/amzn/amazon-pay-api-sdk-php/issues",
-                "source": "https://github.com/amzn/amazon-pay-api-sdk-php/tree/2.5.2"
+                "source": "https://github.com/amzn/amazon-pay-api-sdk-php/tree/2.6.1"
             },
-            "time": "2023-03-06T12:45:51+00:00"
+            "time": "2023-03-17T15:24:24+00:00"
         },
         {
             "name": "amzn/amazon-pay-sdk-php",
@@ -13438,5 +13438,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
