@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "91c0c9198fdbf9c07775e9b150aa4603",
+    "content-hash": "52eb067dd4d998506f2f157845f10fd1",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1472,16 +1472,16 @@
         },
         {
             "name": "google/gax",
-            "version": "v1.19.0",
+            "version": "v1.19.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/gax-php.git",
-                "reference": "d537fd00dcdb1b5599386c1253ccb79e69d5d9f2"
+                "reference": "30f6b307faa9858bf58d967664467098dbbc354f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/gax-php/zipball/d537fd00dcdb1b5599386c1253ccb79e69d5d9f2",
-                "reference": "d537fd00dcdb1b5599386c1253ccb79e69d5d9f2",
+                "url": "https://api.github.com/repos/googleapis/gax-php/zipball/30f6b307faa9858bf58d967664467098dbbc354f",
+                "reference": "30f6b307faa9858bf58d967664467098dbbc354f",
                 "shasum": ""
             },
             "require": {
@@ -1522,9 +1522,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/gax-php/issues",
-                "source": "https://github.com/googleapis/gax-php/tree/v1.19.0"
+                "source": "https://github.com/googleapis/gax-php/tree/v1.19.1"
             },
-            "time": "2023-01-27T00:30:03+00:00"
+            "time": "2023-03-16T19:58:19+00:00"
         },
         {
             "name": "google/grpc-gcp",
@@ -1573,16 +1573,16 @@
         },
         {
             "name": "google/longrunning",
-            "version": "v0.2.4",
+            "version": "v0.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/php-longrunning.git",
-                "reference": "651cbb7065bd77ae7395196695da391f641f739c"
+                "reference": "557817921225911100ea04ed8c59a4f8205b62f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/php-longrunning/zipball/651cbb7065bd77ae7395196695da391f641f739c",
-                "reference": "651cbb7065bd77ae7395196695da391f641f739c",
+                "url": "https://api.github.com/repos/googleapis/php-longrunning/zipball/557817921225911100ea04ed8c59a4f8205b62f6",
+                "reference": "557817921225911100ea04ed8c59a4f8205b62f6",
                 "shasum": ""
             },
             "require-dev": {
@@ -1611,22 +1611,22 @@
             ],
             "description": "Google LongRunning Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/php-longrunning/tree/v0.2.4"
+                "source": "https://github.com/googleapis/php-longrunning/tree/v0.2.5"
             },
-            "time": "2023-02-10T16:10:50+00:00"
+            "time": "2023-03-25T14:54:11+00:00"
         },
         {
             "name": "google/protobuf",
-            "version": "v3.22.1",
+            "version": "v3.22.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protocolbuffers/protobuf-php.git",
-                "reference": "c2b77f2cacaf1a3f540d0386f4dc97b651254f87"
+                "reference": "ff28a64946708e13f2be627b5e5561f247ecf95c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/c2b77f2cacaf1a3f540d0386f4dc97b651254f87",
-                "reference": "c2b77f2cacaf1a3f540d0386f4dc97b651254f87",
+                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/ff28a64946708e13f2be627b5e5561f247ecf95c",
+                "reference": "ff28a64946708e13f2be627b5e5561f247ecf95c",
                 "shasum": ""
             },
             "require": {
@@ -1655,22 +1655,22 @@
                 "proto"
             ],
             "support": {
-                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v3.22.1"
+                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v3.22.2"
             },
-            "time": "2023-03-07T21:54:58+00:00"
+            "time": "2023-03-10T17:52:03+00:00"
         },
         {
             "name": "googleads/google-ads-php",
-            "version": "v17.1.0",
+            "version": "v19.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleads/google-ads-php.git",
-                "reference": "151bab9bd37d46543bbeb2c3b0caedf91cb91b6b"
+                "reference": "b8ee3e9e3326f88e56aa455ef5e5e4684fe80a71"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleads/google-ads-php/zipball/151bab9bd37d46543bbeb2c3b0caedf91cb91b6b",
-                "reference": "151bab9bd37d46543bbeb2c3b0caedf91cb91b6b",
+                "url": "https://api.github.com/repos/googleads/google-ads-php/zipball/b8ee3e9e3326f88e56aa455ef5e5e4684fe80a71",
+                "reference": "b8ee3e9e3326f88e56aa455ef5e5e4684fe80a71",
                 "shasum": ""
             },
             "require": {
@@ -1718,9 +1718,9 @@
             "homepage": "https://github.com/googleads/google-ads-php",
             "support": {
                 "issues": "https://github.com/googleads/google-ads-php/issues",
-                "source": "https://github.com/googleads/google-ads-php/tree/v17.1.0"
+                "source": "https://github.com/googleads/google-ads-php/tree/v19.0.0"
             },
-            "time": "2022-11-03T15:03:37+00:00"
+            "time": "2023-03-20T16:59:49+00:00"
         },
         {
             "name": "graylog2/gelf-php",
@@ -13438,5 +13438,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
