@@ -1299,16 +1299,16 @@
         },
         {
             "name": "google/cloud-core",
-            "version": "v1.49.1",
+            "version": "v1.49.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-core.git",
-                "reference": "aaa1a8d22ff38d0f0ae882ef14377b4c14a65a8f"
+                "reference": "6723a3fde6cc7a307a21ddbf7fce9cf6fab61833"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-core/zipball/aaa1a8d22ff38d0f0ae882ef14377b4c14a65a8f",
-                "reference": "aaa1a8d22ff38d0f0ae882ef14377b4c14a65a8f",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-core/zipball/6723a3fde6cc7a307a21ddbf7fce9cf6fab61833",
+                "reference": "6723a3fde6cc7a307a21ddbf7fce9cf6fab61833",
                 "shasum": ""
             },
             "require": {
@@ -1318,7 +1318,7 @@
                 "guzzlehttp/psr7": "^1.7|^2.0",
                 "monolog/monolog": "^1.1|^2.0|^3.0",
                 "php": ">=5.6",
-                "psr/http-message": "1.0.*",
+                "psr/http-message": "^1.0",
                 "rize/uri-template": "~0.3"
             },
             "require-dev": {
@@ -1359,9 +1359,9 @@
             ],
             "description": "Google Cloud PHP shared dependency, providing functionality useful to all components.",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-core/tree/v1.49.1"
+                "source": "https://github.com/googleapis/google-cloud-php-core/tree/v1.49.4"
             },
-            "time": "2023-02-10T16:10:50+00:00"
+            "time": "2023-04-07T21:48:59+00:00"
         },
         {
             "name": "google/cloud-translate",
@@ -7450,25 +7450,25 @@
         },
         {
             "name": "psr/http-message",
-            "version": "1.0.1",
+            "version": "1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/http-message.git",
-                "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363"
+                "reference": "cb6ce4845ce34a8ad9e68117c10ee90a29919eba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/http-message/zipball/f6561bf28d520154e4b0ec72be95418abe6d9363",
-                "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363",
+                "url": "https://api.github.com/repos/php-fig/http-message/zipball/cb6ce4845ce34a8ad9e68117c10ee90a29919eba",
+                "reference": "cb6ce4845ce34a8ad9e68117c10ee90a29919eba",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0"
+                "php": "^7.2 || ^8.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.0.x-dev"
+                    "dev-master": "1.1.x-dev"
                 }
             },
             "autoload": {
@@ -7497,9 +7497,9 @@
                 "response"
             ],
             "support": {
-                "source": "https://github.com/php-fig/http-message/tree/master"
+                "source": "https://github.com/php-fig/http-message/tree/1.1"
             },
-            "time": "2016-08-06T14:39:51+00:00"
+            "time": "2023-04-04T09:50:52+00:00"
         },
         {
             "name": "psr/http-server-handler",
@@ -13438,5 +13438,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
