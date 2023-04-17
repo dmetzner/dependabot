@@ -16022,12 +16022,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"qrcode.vue@npm:3.3.3":
-  version: 3.3.3
-  resolution: "qrcode.vue@npm:3.3.3"
+"qrcode.vue@npm:3.4.0":
+  version: 3.4.0
+  resolution: "qrcode.vue@npm:3.4.0"
   peerDependencies:
     vue: ^3.0.0
-  checksum: 6f1fb0fbdfac972115b6d48937b42fbe6dff41297be77fcc461f1287e21e1d76a1d695eb50230cca1929619ab75423a4bbace73a6d05ef1f5c45d0966d2170c1
+  checksum: 818c32432175def58e3de36fc6d12c098df473cf76598baa9ce0c3a797ade46f72c69656edfa9f783dc7628a8b038e7df4e751bf7928573ffa06c1092323077e
   languageName: node
   linkType: hard
 
@@ -16818,7 +16818,7 @@ __metadata:
     postcss-preset-env: 8.0.1
     postcss-pxtorem: 6.0.0
     postcss-sort-media-queries: 4.3.0
-    qrcode.vue: 3.3.3
+    qrcode.vue: 3.4.0
     react: 18.2.0
     react-dom: 18.2.0
     react-scripts: 5.0.1
