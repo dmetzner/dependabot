@@ -27,7 +27,7 @@
     "gsap": "3.11.4",
     "mini-css-extract-plugin": "2.7.3",
     "n": "9.0.1",
-    "postcss": "8.4.21",
+    "postcss": "8.4.23",
     "postcss-combine-duplicated-selectors": "10.0.3",
     "postcss-discard": "2.0.0",
     "postcss-loader": "7.0.2",
