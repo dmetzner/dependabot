@@ -15779,14 +15779,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-sort-media-queries@npm:4.3.0":
-  version: 4.3.0
-  resolution: "postcss-sort-media-queries@npm:4.3.0"
+"postcss-sort-media-queries@npm:4.4.1":
+  version: 4.4.1
+  resolution: "postcss-sort-media-queries@npm:4.4.1"
   dependencies:
     sort-css-media-queries: 2.1.0
   peerDependencies:
     postcss: ^8.4.16
-  checksum: 7bf9fcde74781f40ca49484e84dcd26e491632b296ba77b3f4b7ea7778f816ac48f87d2c6ab0a629edf636440a4240615b69a4ece1dd7597f6a4e0678794eb0e
+  checksum: 70b42e479bb1d15d8628678eefefd547d309e33e64262fe437630fe62d8e4b3adcae7f2b48ef8da9d3173576d4af109a9ffa9514573db1281deef324f5ea166f
   languageName: node
   linkType: hard
 
@@ -16817,7 +16817,7 @@ __metadata:
     postcss-loader: 7.0.2
     postcss-preset-env: 8.0.1
     postcss-pxtorem: 6.0.0
-    postcss-sort-media-queries: 4.3.0
+    postcss-sort-media-queries: 4.4.1
     qrcode.vue: 3.3.3
     react: 18.2.0
     react-dom: 18.2.0
