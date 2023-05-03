@@ -61,7 +61,7 @@
     "ext-zip": "*",
     "ext-zlib": "*",
     "aws/aws-sdk-php": "3.261.*",
-    "google/auth": "1.25.*",
+    "google/auth": "1.26.*",
     "smalot/cups-ipp": "0.5.*",
     "phpseclib/phpseclib": "3.0.*",
     "amzn/amazon-pay-sdk-php": "3.7.*",
