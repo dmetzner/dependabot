@@ -10,7 +10,7 @@
     "@cypress/skip-test": "2.6.1",
     "@symfony/webpack-encore": "4.2.0",
     "@types/jquery": "3.5.16",
-    "@types/react": "18.0.28",
+    "@types/react": "18.2.6",
     "@types/react-dom": "18.0.11",
     "@types/winbox": "0.2.1",
     "@typescript-eslint/eslint-plugin": "5.54.1",
@@ -65,7 +65,7 @@
     "cypress run": "./node_modules/.bin/cypress run --headless --https"
   },
   "resolutions": {
-    "@types/react": "18.0.25",
+    "@types/react": "18.2.6",
     "@types/react-dom": "18.0.9"
   },
   "packageManager": "yarn@3.2.0",
