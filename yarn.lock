@@ -96,18 +96,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@adyen/adyen-web@npm:^5.35.0":
-  version: 5.35.0
-  resolution: "@adyen/adyen-web@npm:5.35.0"
+"@adyen/adyen-web@npm:^5.42.0":
+  version: 5.42.0
+  resolution: "@adyen/adyen-web@npm:5.42.0"
   dependencies:
     "@babel/runtime": ^7.15.4
     "@babel/runtime-corejs3": ^7.20.1
     "@types/applepayjs": ^3.0.4
-    "@types/googlepay": ^0.6.2
+    "@types/googlepay": ^0.7.0
     classnames: ^2.3.1
     core-js-pure: ^3.25.3
     preact: 10.11.3
-  checksum: 3eecf548f131158117e565d1fc9819ba57fe9c92bc3e98ba5b16a007e9f094239f86d16a7330c3dee839aa92672b4cf4c2901e328f1ed8b88a7778afe33ccaa3
+  checksum: 5868a14d8ceef887e25be2aa50c46148834abdae60953121cd527be8f0529640482f7e28dc9d81646f15564d46cbb93acc84f64bd205104b28c9d338d8917007
   languageName: node
   linkType: hard
 
@@ -6138,10 +6138,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/googlepay@npm:^0.6.2":
-  version: 0.6.4
-  resolution: "@types/googlepay@npm:0.6.4"
-  checksum: 50dfafa4316febebecfbed80a2722803c590d6859e5a3fd997af5061d865a51464c00b3e21a3335f3605461de802fcfd3a430486c23fe4bec3146412764cc1c6
+"@types/googlepay@npm:^0.7.0":
+  version: 0.7.0
+  resolution: "@types/googlepay@npm:0.7.0"
+  checksum: 3576fa08db2e7e7a680ac8b76f6f1066572184427bdf611d0216a82c7045f8af36072240b3a6552a7255f030d670806e6635a71c5922025448862f45c0c20564
   languageName: node
   linkType: hard
 
@@ -16771,7 +16771,7 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     "@adobe/react-spectrum": 3.25.1
-    "@adyen/adyen-web": ^5.35.0
+    "@adyen/adyen-web": ^5.42.0
     "@babel/core": 7.21.0
     "@babel/plugin-syntax-flow": 7.18.6
     "@babel/plugin-transform-react-jsx": 7.21.0
