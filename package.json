@@ -83,7 +83,7 @@
     "core-js": "3.29.0",
     "jquery": "3.6.4",
     "lottie-web": "5.10.2",
-    "pinia": "2.0.33",
+    "pinia": "2.0.36",
     "popper.js": "1.16.1",
     "qrcode.vue": "3.3.3",
     "react": "18.2.0",
