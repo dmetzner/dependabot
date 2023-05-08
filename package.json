@@ -11,7 +11,7 @@
     "@symfony/webpack-encore": "4.2.0",
     "@types/jquery": "3.5.16",
     "@types/react": "18.0.28",
-    "@types/react-dom": "18.0.11",
+    "@types/react-dom": "18.2.4",
     "@types/winbox": "0.2.1",
     "@typescript-eslint/eslint-plugin": "5.54.1",
     "@typescript-eslint/parser": "5.54.1",
@@ -66,7 +66,7 @@
   },
   "resolutions": {
     "@types/react": "18.0.25",
-    "@types/react-dom": "18.0.9"
+    "@types/react-dom": "18.2.4"
   },
   "packageManager": "yarn@3.2.0",
   "dependencies": {
