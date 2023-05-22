@@ -91,7 +91,7 @@
     "react-scripts": "5.0.1",
     "react-stately": "3.21.0",
     "swiper": "8.4.7",
-    "vue": "3.2.47",
+    "vue": "3.3.4",
     "vue-debounce": "4.0.0",
     "vue3-barcode-scanner": "1.0.8",
     "winbox": "0.2.6"
