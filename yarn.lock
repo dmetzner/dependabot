@@ -2453,6 +2453,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@internationalized/date@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "@internationalized/date@npm:3.2.0"
+  dependencies:
+    "@swc/helpers": ^0.4.14
+  checksum: 5267e8f58a22074975daafa20d3014067e46f86e1f477e7fc63afb110d34a63de87dddb81ad6535d5f8803ecd28d20207ba21b03a6d3f4a329875d4acedf3302
+  languageName: node
+  linkType: hard
+
 "@internationalized/message@npm:^3.1.0":
   version: 3.1.0
   resolution: "@internationalized/message@npm:3.1.0"
@@ -3222,6 +3231,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@react-aria/i18n@npm:^3.7.2":
+  version: 3.7.2
+  resolution: "@react-aria/i18n@npm:3.7.2"
+  dependencies:
+    "@internationalized/date": ^3.2.0
+    "@internationalized/message": ^3.1.0
+    "@internationalized/number": ^3.2.0
+    "@internationalized/string": ^3.1.0
+    "@react-aria/ssr": ^3.6.0
+    "@react-aria/utils": ^3.17.0
+    "@react-types/shared": ^3.18.1
+    "@swc/helpers": ^0.4.14
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+  checksum: 2599283cba80c2da87b910b64d747983748c6bd756785127f926005854905bbbeb333c4eb91f02e22bbb76e9a745a9c5e4261057585ea05b5fa2a4e24ea228b7
+  languageName: node
+  linkType: hard
+
 "@react-aria/interactions@npm:^3.14.0":
   version: 3.14.0
   resolution: "@react-aria/interactions@npm:3.14.0"
@@ -3534,6 +3561,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@react-aria/ssr@npm:^3.6.0":
+  version: 3.6.0
+  resolution: "@react-aria/ssr@npm:3.6.0"
+  dependencies:
+    "@swc/helpers": ^0.4.14
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+  checksum: fab5cf0efb6eea28ae27a74a1ae1724536731f6ea556f7e22f1100e809af5a27c7bfcf6898a0b4d880b374e4b11b782aeadb19b34e26ec10e4e75beb820293e1
+  languageName: node
+  linkType: hard
+
 "@react-aria/switch@npm:^3.4.0":
   version: 3.4.0
   resolution: "@react-aria/switch@npm:3.4.0"
@@ -3656,6 +3694,21 @@ __metadata:
   peerDependencies:
     react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
   checksum: 9d852b3a8ca492b5e8c733f6258437430d050950d4cbdb99ab221d1a076ebca2625d45384bfb7b651072adc93368462445061c83ceac079418c8deafca2b47c3
+  languageName: node
+  linkType: hard
+
+"@react-aria/utils@npm:^3.17.0":
+  version: 3.17.0
+  resolution: "@react-aria/utils@npm:3.17.0"
+  dependencies:
+    "@react-aria/ssr": ^3.6.0
+    "@react-stately/utils": ^3.6.0
+    "@react-types/shared": ^3.18.1
+    "@swc/helpers": ^0.4.14
+    clsx: ^1.1.1
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+  checksum: a7c9824441a9879ad650acac434c53ff903f2584bd67952f9002d35671497332e8c0a09e521085b60d91f95035fd2f99191dc52a08aea8a47136715f0fdf1c66
   languageName: node
   linkType: hard
 
@@ -4038,6 +4091,21 @@ __metadata:
     "@react-spectrum/provider": ^3.0.0
     react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
   checksum: 9ef37eee25aecf9e010c60c6c56aec2e4d2f6c60af5fd71f272f459dc19dc4c435d411f5e47df78c16629bda1c3a405adabba5729c4171074a07db78f66eda14
+  languageName: node
+  linkType: hard
+
+"@react-spectrum/icon@npm:^3.7.2":
+  version: 3.7.2
+  resolution: "@react-spectrum/icon@npm:3.7.2"
+  dependencies:
+    "@react-aria/utils": ^3.17.0
+    "@react-spectrum/utils": ^3.9.2
+    "@react-types/shared": ^3.18.1
+    "@swc/helpers": ^0.4.14
+  peerDependencies:
+    "@react-spectrum/provider": ^3.0.0
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+  checksum: eba4cce42950e218a598f462380ad5ebc358e1fd529aa52e253453463e5cab22ca299758297a96d31e956f58fd9800594c91bf3a130d79507d00ae2b40f6bd1a
   languageName: node
   linkType: hard
 
@@ -4668,6 +4736,22 @@ __metadata:
   peerDependencies:
     react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
   checksum: 3830176a63aacdd0aade1dc716ef494e0a9966c26e330b45468325d41a7e97379a628b71d0a86d3bc0b22274692d2fbb8555d8538f1e92bce8b7fb7219350617
+  languageName: node
+  linkType: hard
+
+"@react-spectrum/utils@npm:^3.9.2":
+  version: 3.9.2
+  resolution: "@react-spectrum/utils@npm:3.9.2"
+  dependencies:
+    "@react-aria/i18n": ^3.7.2
+    "@react-aria/ssr": ^3.6.0
+    "@react-aria/utils": ^3.17.0
+    "@react-types/shared": ^3.18.1
+    "@swc/helpers": ^0.4.14
+    clsx: ^1.1.1
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+  checksum: 5f8efb3ccd7920611919d3700d7881c72c558a5af7f87ce9c81a5e6ed48f4c443522624e10a2a598af5e635ccbd1a66338f7bee3769c94970c2dbff6a2d2c09d
   languageName: node
   linkType: hard
 
@@ -5406,6 +5490,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@react-types/shared@npm:^3.18.1":
+  version: 3.18.1
+  resolution: "@react-types/shared@npm:3.18.1"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+  checksum: 298822d1cca26b5da1bdf53a57d26d5619f3af816db3fdecdc8b99a3a305ca8ee352347ca43f426a5d79045b08cf32c00c6b083ad4a1002abf673de9dd4a9bb5
+  languageName: node
+  linkType: hard
+
 "@react-types/slider@npm:^3.4.0":
   version: 3.4.0
   resolution: "@react-types/slider@npm:3.4.0"
@@ -5609,17 +5702,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-icons/color@npm:3.5.0":
-  version: 3.5.0
-  resolution: "@spectrum-icons/color@npm:3.5.0"
+"@spectrum-icons/color@npm:3.5.2":
+  version: 3.5.2
+  resolution: "@spectrum-icons/color@npm:3.5.2"
   dependencies:
     "@adobe/react-spectrum-workflow-color": 1.1.0
-    "@react-spectrum/icon": ^3.7.0
+    "@react-spectrum/icon": ^3.7.2
     "@swc/helpers": ^0.4.14
   peerDependencies:
     "@react-spectrum/provider": ^3.0.0
     react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
-  checksum: 2fec6461a695dcaadcfdc99eba1e18f24c8f0999c29d17c5f20f66d6ddf786177460f223492db4094d313aaf326a6ab19882973b45a356993b76cb5291f99182
+  checksum: 230bf4addca65355516549f86297a037b123583378d77c30356233c663551ac622443a52732122b6720eda6cb3428ef94ac0c570bf14a21f98d5f2563cdc1c1a
   languageName: node
   linkType: hard
 
@@ -16779,7 +16872,7 @@ __metadata:
     "@babel/preset-react": 7.18.6
     "@cypress/skip-test": 2.6.1
     "@popperjs/core": 2.11.6
-    "@spectrum-icons/color": 3.5.0
+    "@spectrum-icons/color": 3.5.2
     "@spectrum-icons/illustrations": 3.6.0
     "@spectrum-icons/ui": 3.5.0
     "@spectrum-icons/workflow": 4.1.0
