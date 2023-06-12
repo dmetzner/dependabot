@@ -13394,10 +13394,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lottie-web@npm:5.10.2":
-  version: 5.10.2
-  resolution: "lottie-web@npm:5.10.2"
-  checksum: 9ec80b479d8d03c079bd4f246d301f0c4aac2c4d6f8daaa79f6f3fc285aaba377c64879f6748d49c1db52b9854aea81c3203d858e9c686f7a47cd8b771d112d0
+"lottie-web@npm:5.12.1":
+  version: 5.12.1
+  resolution: "lottie-web@npm:5.12.1"
+  checksum: 73dde9bf37e72a108602994a08fbf5a732281a8a5735164aa86adb4e6f5183dfbd5848140a19cc717fc5e0f13b3cb920f20d4dfcc2862514af55b003bf951a14
   languageName: node
   linkType: hard
 
@@ -16806,7 +16806,7 @@ __metadata:
     file-loader: 6.2.0
     gsap: 3.11.4
     jquery: 3.6.4
-    lottie-web: 5.10.2
+    lottie-web: 5.12.1
     mini-css-extract-plugin: 2.7.3
     n: 9.0.1
     pinia: 2.0.33
