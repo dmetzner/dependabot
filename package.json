@@ -14,7 +14,7 @@
     "@types/react-dom": "18.0.11",
     "@types/winbox": "0.2.1",
     "@typescript-eslint/eslint-plugin": "5.54.1",
-    "@typescript-eslint/parser": "5.54.1",
+    "@typescript-eslint/parser": "5.59.9",
     "@vue/compiler-sfc": "3.2.47",
     "breakpoint-sass": "3.0.0",
     "coa": "2.0.2",
