@@ -119,7 +119,7 @@
     "symfony/finder": "5.4.*",
     "zircote/swagger-php": "4.7.*",
     "guzzlehttp/guzzle": "6.5.*",
-    "googleads/google-ads-php": "^18.0",
+    "googleads/google-ads-php": "^19.2",
     "jordanbrauer/unit-converter": "0.8.8",
     "markbaker/complex": "3.0.*",
     "phpoffice/phpspreadsheet": "1.28.*",
