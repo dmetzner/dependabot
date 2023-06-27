@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bbd04a2d61e176320995bcf620f0a740",
+    "content-hash": "b373bef0ace524277282855c18a579da",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1254,16 +1254,16 @@
         },
         {
             "name": "google/cloud-bigquery",
-            "version": "v1.24.2",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-bigquery.git",
-                "reference": "1c82d670bfc27efbd33afbdeec74745dee31240e"
+                "reference": "fc0d9c4119fcab0379ebac7833845a213182e98d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-bigquery/zipball/1c82d670bfc27efbd33afbdeec74745dee31240e",
-                "reference": "1c82d670bfc27efbd33afbdeec74745dee31240e",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-bigquery/zipball/fc0d9c4119fcab0379ebac7833845a213182e98d",
+                "reference": "fc0d9c4119fcab0379ebac7833845a213182e98d",
                 "shasum": ""
             },
             "require": {
@@ -1303,9 +1303,9 @@
             ],
             "description": "BigQuery Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-bigquery/tree/v1.24.2"
+                "source": "https://github.com/googleapis/google-cloud-php-bigquery/tree/v1.25.0"
             },
-            "time": "2023-05-05T23:01:42+00:00"
+            "time": "2023-06-02T23:56:27+00:00"
         },
         {
             "name": "google/cloud-core",
@@ -13403,5 +13403,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
