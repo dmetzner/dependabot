@@ -13074,10 +13074,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hls.js@npm:^1.4.6":
-  version: 1.4.6
-  resolution: "hls.js@npm:1.4.6"
-  checksum: 7a44107c92e52859bfd5a37b6ea647cfea20848466286c1280b2cf956cfaccf8131fa54867cd8edfb60042a238025fb8788263fd9dfb9d1798ddbdc08f5aab50
+"hls.js@npm:^1.4.7":
+  version: 1.4.7
+  resolution: "hls.js@npm:1.4.7"
+  checksum: ca58d97d49048fa6f437b834b807d26f5b47750aae57a573f179155e63e39159aa304f3ef13504b42c19969984918b17557e9311a779b0b04641bd6b668b45db
   languageName: node
   linkType: hard
 
@@ -18688,7 +18688,7 @@ __metadata:
     eslint-webpack-plugin: 4.0.1
     file-loader: 6.2.0
     gsap: 3.12.1
-    hls.js: ^1.4.6
+    hls.js: ^1.4.7
     jquery: 3.7.0
     lit: ^2.7.5
     lottie-web: 5.12.2
