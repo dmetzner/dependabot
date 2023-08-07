@@ -7573,12 +7573,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash-es@npm:^4.17.7":
-  version: 4.17.7
-  resolution: "@types/lodash-es@npm:4.17.7"
+"@types/lodash-es@npm:^4.17.8":
+  version: 4.17.8
+  resolution: "@types/lodash-es@npm:4.17.8"
   dependencies:
     "@types/lodash": "*"
-  checksum: 4b1f39fd1d921311c37a846c0e0df9d1fa23e27448a6ad1efd7574e703abd2b2fa5e8f3b5037146000f167ba231d0d01e52747d902654151b4ceeff9f2a9b380
+  checksum: 36356169a1862e2a1b09cde3b11b3790ab2c2e477778d70f825b216479ea93bd1a960767dbefcd00d6604312170a1b15209f0fa1c35ddf8861bc233c9b0d3e56
   languageName: node
   linkType: hard
 
@@ -9796,10 +9796,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chalk@npm:^5.2.0":
-  version: 5.2.0
-  resolution: "chalk@npm:5.2.0"
-  checksum: 03d8060277de6cf2fd567dc25fcf770593eb5bb85f460ce443e49255a30ff1242edd0c90a06a03803b0466ff0687a939b41db1757bec987113e83de89a003caa
+"chalk@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "chalk@npm:5.3.0"
+  checksum: 623922e077b7d1e9dedaea6f8b9e9352921f8ae3afe739132e0e00c275971bdd331268183b2628cf4ab1727c45ea1f28d7e24ac23ce1db1eb653c414ca8a5a80
   languageName: node
   linkType: hard
 
@@ -12196,7 +12196,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-glob@npm:^3.2.11, fast-glob@npm:^3.2.12, fast-glob@npm:^3.2.9":
+"fast-glob@npm:^3.2.12, fast-glob@npm:^3.2.9":
   version: 3.2.12
   resolution: "fast-glob@npm:3.2.12"
   dependencies:
@@ -12206,6 +12206,19 @@ __metadata:
     merge2: ^1.3.0
     micromatch: ^4.0.4
   checksum: 0b1990f6ce831c7e28c4d505edcdaad8e27e88ab9fa65eedadb730438cfc7cde4910d6c975d6b7b8dc8a73da4773702ebcfcd6e3518e73938bb1383badfe01c2
+  languageName: node
+  linkType: hard
+
+"fast-glob@npm:^3.3.1":
+  version: 3.3.1
+  resolution: "fast-glob@npm:3.3.1"
+  dependencies:
+    "@nodelib/fs.stat": ^2.0.2
+    "@nodelib/fs.walk": ^1.2.3
+    glob-parent: ^5.1.2
+    merge2: ^1.3.0
+    micromatch: ^4.0.4
+  checksum: b6f3add6403e02cf3a798bfbb1183d0f6da2afd368f27456010c0bc1f9640aea308243d4cb2c0ab142f618276e65ecb8be1661d7c62a7b4e5ba774b9ce5432e5
   languageName: node
   linkType: hard
 
@@ -12861,19 +12874,6 @@ __metadata:
     merge2: ^1.4.1
     slash: ^3.0.0
   checksum: b4be8885e0cfa018fc783792942d53926c35c50b3aefd3fdcfb9d22c627639dc26bd2327a40a0b74b074100ce95bb7187bfeae2f236856aa3de183af7a02aea6
-  languageName: node
-  linkType: hard
-
-"globby@npm:^13.1.4":
-  version: 13.2.0
-  resolution: "globby@npm:13.2.0"
-  dependencies:
-    dir-glob: ^3.0.1
-    fast-glob: ^3.2.11
-    ignore: ^5.2.0
-    merge2: ^1.4.1
-    slash: ^4.0.0
-  checksum: 0a3dd786571788adef1c894f22112834cff5bbe061ae6e0a01c5118c39d44b3f1937ef1dae3f8b9bc24756eba84a0923e565b1ad9a4ec52831d7e2a04c035e75
   languageName: node
   linkType: hard
 
@@ -18723,7 +18723,7 @@ __metadata:
     webpack-cli: 5.1.4
     webpack-notifier: 1.15.0
     winbox: 0.2.6
-    yarn-audit-fix: 9.3.12
+    yarn-audit-fix: 10.0.0
   languageName: unknown
   linkType: soft
 
@@ -18984,14 +18984,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:^7.5.2":
-  version: 7.5.3
-  resolution: "semver@npm:7.5.3"
+"semver@npm:^7.5.4":
+  version: 7.5.4
+  resolution: "semver@npm:7.5.4"
   dependencies:
     lru-cache: ^6.0.0
   bin:
     semver: bin/semver.js
-  checksum: 9d58db16525e9f749ad0a696a1f27deabaa51f66e91d2fa2b0db3de3e9644e8677de3b7d7a03f4c15bc81521e0c3916d7369e0572dbde250d9bedf5194e2a8a7
+  checksum: 12d8ad952fa353b0995bf180cdac205a4068b759a140e5d3c608317098b3575ac2f1e09182206bf2eb26120e1c0ed8fb92c48c592f6099680de56bb071423ca3
   languageName: node
   linkType: hard
 
@@ -20331,13 +20331,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tslib@npm:^2.5.3":
-  version: 2.6.0
-  resolution: "tslib@npm:2.6.0"
-  checksum: c01066038f950016a18106ddeca4649b4d76caa76ec5a31e2a26e10586a59fceb4ee45e96719bf6c715648e7c14085a81fee5c62f7e9ebee68e77a5396e5538f
-  languageName: node
-  linkType: hard
-
 "tsutils@npm:^3.21.0":
   version: 3.21.0
   resolution: "tsutils@npm:3.21.0"
@@ -21618,31 +21611,30 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yarn-audit-fix@npm:9.3.12":
-  version: 9.3.12
-  resolution: "yarn-audit-fix@npm:9.3.12"
+"yarn-audit-fix@npm:10.0.0":
+  version: 10.0.0
+  resolution: "yarn-audit-fix@npm:10.0.0"
   dependencies:
     "@types/find-cache-dir": ^3.2.1
     "@types/fs-extra": ^11.0.1
-    "@types/lodash-es": ^4.17.7
+    "@types/lodash-es": ^4.17.8
     "@types/semver": ^7.5.0
     "@types/yarnpkg__lockfile": ^1.1.6
     "@yarnpkg/lockfile": ^1.1.0
-    chalk: ^5.2.0
+    chalk: ^5.3.0
     commander: ^10.0.1
+    fast-glob: ^3.3.1
     find-cache-dir: ^4.0.0
     find-up: ^6.3.0
     fs-extra: ^11.1.1
-    globby: ^13.1.4
     js-yaml: ^4.1.0
     lodash-es: ^4.17.21
     pkg-dir: ^7.0.0
-    semver: ^7.5.2
+    semver: ^7.5.4
     synp: ^1.9.10
-    tslib: ^2.5.3
   bin:
-    yarn-audit-fix: target/es6/cli.js
-  checksum: 93fa01dc734122ba6514eafc31a85c20ce008c40a294febd4e48d87d78cd6f8754dbc583f207a08f4f654b9eea66b58ff90818c18f2750738dfe924034466cfe
+    yarn-audit-fix: target/esm/cli.mjs
+  checksum: 2417250117f4c1d7ee746d45ee5b528b4115620c9c3ba397cba58b07fc6d4e0db5ed588ee3a02858c7a5cdfaeacaf19bcf0ff6017280aedae9e9889e3644d844
   languageName: node
   linkType: hard
 
