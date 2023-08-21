@@ -3553,14 +3553,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@googlemaps/extended-component-library@npm:^0.1.4":
-  version: 0.1.4
-  resolution: "@googlemaps/extended-component-library@npm:0.1.4"
+"@googlemaps/extended-component-library@npm:^0.4.0":
+  version: 0.4.0
+  resolution: "@googlemaps/extended-component-library@npm:0.4.0"
   dependencies:
     "@lit-labs/context": ^0.3.1
+    "@lit-labs/react": ^1.2.0
     lit: ^2.3.0
     tslib: ^2.4.0
-  checksum: 5e32d18e321433327a3ea2aa7d0ddacbff23b3e95ddcfab23f5794b04c21c112581c333dfdd0471473655c813be64073a074beefe7b4e85850aca1f4fa12983f
+  checksum: 3504082ee981043fc188ba13b36d824748365ddaa87c32cf92f3f81bc64dfd3bf06fa7e5a3c6a4e4a6daf92b71795c009eac191fca5a8a001ed08f08ab8af0f4
   languageName: node
   linkType: hard
 
@@ -4032,6 +4033,13 @@ __metadata:
     "@lit/reactive-element": ^1.5.0
     lit: ^2.7.0
   checksum: eca24343bf63a092662a45c0483a77191348514c84aa7fa1a497d45c5741c16e8e61fb294ed8e56d73536b4e7fe96c49beb416417a2c879e670e553e19f5a3f5
+  languageName: node
+  linkType: hard
+
+"@lit-labs/react@npm:^1.2.0":
+  version: 1.2.1
+  resolution: "@lit-labs/react@npm:1.2.1"
+  checksum: d4a544c475272630bee54d78a458630ea8b5fab74c18b922ae5046563cc359c8c505188f9f7614ab55e332863f82b179d7970d8b8bd425e77acc167a01657bed
   languageName: node
   linkType: hard
 
@@ -18652,7 +18660,7 @@ __metadata:
     "@babel/preset-env": 7.22.5
     "@babel/preset-react": 7.22.5
     "@cypress/skip-test": 2.6.1
-    "@googlemaps/extended-component-library": ^0.1.4
+    "@googlemaps/extended-component-library": ^0.4.0
     "@googlemaps/js-api-loader": ^1.16.2
     "@googlemaps/markerclusterer": ^2.3.1
     "@lit-labs/context": 0.3.3
