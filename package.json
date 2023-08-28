@@ -29,7 +29,7 @@
     "cross-env": "7.0.3",
     "cypress": "12.17.4",
     "cypress-image-diff-js": "1.28.0",
-    "eslint": "8.47.0",
+    "eslint": "8.48.0",
     "eslint-webpack-plugin": "4.0.1",
     "events": "^3.3.0",
     "file-loader": "6.2.0",
