@@ -134,7 +134,7 @@
     "zircote/swagger-php": "4.7.*",
     "guzzlehttp/guzzle": "6.5.*",
     "googleads/google-ads-php": "^19.0",
-    "jordanbrauer/unit-converter": "0.8.8",
+    "jordanbrauer/unit-converter": "0.9.0",
     "markbaker/complex": "3.0.*",
     "phpoffice/phpspreadsheet": "1.29.*",
     "php-http/socket-client": "1.4.*",

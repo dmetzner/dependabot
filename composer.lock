@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0f91d6769cbf0cbb8a81ace0f50710c8",
+    "content-hash": "91f74589c06bb506dfed8ae045677003",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -2185,28 +2185,27 @@
         },
         {
             "name": "jordanbrauer/unit-converter",
-            "version": "v0.8.8",
+            "version": "0.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jordanbrauer/unit-converter.git",
-                "reference": "0b8dc7fdef9c86489e3c2361cabbdc5fba77c72e"
+                "reference": "a8732503f8e0c6038c805e1449dc498162bfc9a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jordanbrauer/unit-converter/zipball/0b8dc7fdef9c86489e3c2361cabbdc5fba77c72e",
-                "reference": "0b8dc7fdef9c86489e3c2361cabbdc5fba77c72e",
+                "url": "https://api.github.com/repos/jordanbrauer/unit-converter/zipball/a8732503f8e0c6038c805e1449dc498162bfc9a2",
+                "reference": "a8732503f8e0c6038c805e1449dc498162bfc9a2",
                 "shasum": ""
             },
             "require": {
                 "ext-bcmath": "*",
                 "ext-intl": "*",
-                "php": "^7.3 || ~8.0.0 || ~8.1.0"
+                "php": "^7.3 || ^8.0"
             },
             "require-dev": {
-                "ergebnis/composer-normalize": "^2.13",
-                "marcocesarato/php-conventional-changelog": "^1.9",
-                "pestphp/pest": "^1.0",
-                "phpunit/phpunit": "^9.5",
+                "ergebnis/composer-normalize": "2.20.0",
+                "marcocesarato/php-conventional-changelog": "^1.17",
+                "pestphp/pest": "v1.23.1",
                 "symfony/var-dumper": "^3.3"
             },
             "type": "library",
@@ -2228,9 +2227,9 @@
             "description": "Convert standard units from one to another with this easy to use, lightweight package",
             "support": {
                 "issues": "https://github.com/jordanbrauer/unit-converter/issues",
-                "source": "https://github.com/jordanbrauer/unit-converter/tree/v0.8.8"
+                "source": "https://github.com/jordanbrauer/unit-converter/tree/v0.9.0"
             },
-            "time": "2021-12-30T00:51:06+00:00"
+            "time": "2023-08-23T23:47:38+00:00"
         },
         {
             "name": "klarna/kco_rest",
@@ -13465,5 +13464,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
