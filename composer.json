@@ -8,7 +8,20 @@
         "laminas/laminas-httphandlerrunner",
         "mezzio/mezzio-fastroute"
       ]
-    }
+    },
+    "google/apiclient-services": [
+      "Analytics",
+      "AnalyticsData",
+      "CloudMachineLearningEngine",
+      "Sheets",
+      "Gmail",
+      "Oauth2",
+      "Drive",
+      "Directory"
+    ]
+  },
+  "scripts": {
+    "pre-autoload-dump": "Google\\Task\\Composer::cleanup"
   },
   "autoload": {
     "psr-0": {
@@ -23,7 +36,7 @@
   "require": {
     "ruler/ruler": "0.4.*",
     "google/apiclient": "2.14.*",
-    "google/apiclient-services": "0.306.*",
+    "google/apiclient-services": "^0.308.0",
     "smarty/smarty": "4.3.*",
     "ext-bcmath": "*",
     "ext-ctype": "*",
@@ -60,9 +73,9 @@
     "ext-xmlwriter": "*",
     "ext-zip": "*",
     "ext-zlib": "*",
-    "aws/aws-sdk-php": "3.273.*",
+    "aws/aws-sdk-php": "3.275.*",
     "google/auth": "1.26.*",
-    "smalot/cups-ipp": "0.5.*",
+    "etrias/cups-ipp": "*",
     "phpseclib/phpseclib": "3.0.*",
     "amzn/amazon-pay-sdk-php": "3.7.*",
     "amzn/amazon-pay-api-sdk-php": "2.6.*",
@@ -109,6 +122,7 @@
     "league/oauth2-client": "2.7.*",
     "league/oauth2-facebook": "2.2.*",
     "league/oauth2-google": "4.0.*",
+    "league/pipeline": "^1.0",
     "google/cloud-core": "1.52.*",
     "google/cloud-translate": "1.14.*",
     "paypal/paypal-checkout-sdk": "1.0.2",
