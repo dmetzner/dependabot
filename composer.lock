@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0f91d6769cbf0cbb8a81ace0f50710c8",
+    "content-hash": "a1329aa90ad52b8b8c735a398a99e844",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1425,16 +1425,16 @@
         },
         {
             "name": "google/cloud-translate",
-            "version": "v1.14.3",
+            "version": "v1.15.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-translate.git",
-                "reference": "5e1937c4b49356c2f4d6b5641ae5cc12c553d564"
+                "reference": "15c03ce490efe482ffbc214d29a646e86be9d51c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-translate/zipball/5e1937c4b49356c2f4d6b5641ae5cc12c553d564",
-                "reference": "5e1937c4b49356c2f4d6b5641ae5cc12c553d564",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-translate/zipball/15c03ce490efe482ffbc214d29a646e86be9d51c",
+                "reference": "15c03ce490efe482ffbc214d29a646e86be9d51c",
                 "shasum": ""
             },
             "require": {
@@ -1474,9 +1474,9 @@
             ],
             "description": "Cloud Translation Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-translate/tree/v1.14.3"
+                "source": "https://github.com/googleapis/google-cloud-php-translate/tree/v1.15.0"
             },
-            "time": "2023-07-28T20:05:21+00:00"
+            "time": "2023-08-17T19:37:27+00:00"
         },
         {
             "name": "google/common-protos",
@@ -13465,5 +13465,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
