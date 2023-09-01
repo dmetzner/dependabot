@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0f91d6769cbf0cbb8a81ace0f50710c8",
+    "content-hash": "9db15ebe9a1ff052ac9acda27b36318c",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -222,16 +222,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.275.9",
+            "version": "3.280.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "1ef08ba5109591751257ad1eaa52c2e2fbd53cf1"
+                "reference": "2b2bb8cc5be21e252fb5803d229f1d7fbbec0222"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/1ef08ba5109591751257ad1eaa52c2e2fbd53cf1",
-                "reference": "1ef08ba5109591751257ad1eaa52c2e2fbd53cf1",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/2b2bb8cc5be21e252fb5803d229f1d7fbbec0222",
+                "reference": "2b2bb8cc5be21e252fb5803d229f1d7fbbec0222",
                 "shasum": ""
             },
             "require": {
@@ -240,11 +240,11 @@
                 "ext-pcre": "*",
                 "ext-simplexml": "*",
                 "guzzlehttp/guzzle": "^6.5.8 || ^7.4.5",
-                "guzzlehttp/promises": "^1.4.0",
+                "guzzlehttp/promises": "^1.4.0 || ^2.0",
                 "guzzlehttp/psr7": "^1.9.1 || ^2.4.5",
                 "mtdowling/jmespath.php": "^2.6",
-                "php": ">=5.5",
-                "psr/http-message": "^1.0"
+                "php": ">=7.2.5",
+                "psr/http-message": "^1.0 || ^2.0"
             },
             "require-dev": {
                 "andrewsville/php-token-reflection": "^1.4",
@@ -259,7 +259,7 @@
                 "ext-sockets": "*",
                 "nette/neon": "^2.3",
                 "paragonie/random_compat": ">= 2",
-                "phpunit/phpunit": "^4.8.35 || ^5.6.3 || ^9.5",
+                "phpunit/phpunit": "^5.6.3 || ^8.5 || ^9.5",
                 "psr/cache": "^1.0",
                 "psr/simple-cache": "^1.0",
                 "sebastian/comparator": "^1.2.3 || ^4.0",
@@ -311,9 +311,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.275.9"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.280.1"
             },
-            "time": "2023-07-18T18:20:13+00:00"
+            "time": "2023-08-31T18:56:31+00:00"
         },
         {
             "name": "brick/math",
@@ -1203,16 +1203,16 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.308.0",
+            "version": "v0.313.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "85cf00383e6bf6eca131bd3261b7859ea418a578"
+                "reference": "e41289c4488563af75bd291972f0fa00949e084a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/85cf00383e6bf6eca131bd3261b7859ea418a578",
-                "reference": "85cf00383e6bf6eca131bd3261b7859ea418a578",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/e41289c4488563af75bd291972f0fa00949e084a",
+                "reference": "e41289c4488563af75bd291972f0fa00949e084a",
                 "shasum": ""
             },
             "require": {
@@ -1241,9 +1241,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.308.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.313.0"
             },
-            "time": "2023-07-09T01:06:13+00:00"
+            "time": "2023-08-25T01:10:13+00:00"
         },
         {
             "name": "google/auth",
@@ -1305,16 +1305,16 @@
         },
         {
             "name": "google/cloud-bigquery",
-            "version": "v1.25.1",
+            "version": "v1.26.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-bigquery.git",
-                "reference": "42cb0b9ebd339907c37c14fefe86a97a7951c5ff"
+                "reference": "2bb2c8a02318adb7122d6b48968e7beacf88353b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-bigquery/zipball/42cb0b9ebd339907c37c14fefe86a97a7951c5ff",
-                "reference": "42cb0b9ebd339907c37c14fefe86a97a7951c5ff",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-bigquery/zipball/2bb2c8a02318adb7122d6b48968e7beacf88353b",
+                "reference": "2bb2c8a02318adb7122d6b48968e7beacf88353b",
                 "shasum": ""
             },
             "require": {
@@ -1354,9 +1354,9 @@
             ],
             "description": "BigQuery Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-bigquery/tree/v1.25.1"
+                "source": "https://github.com/googleapis/google-cloud-php-bigquery/tree/v1.26.1"
             },
-            "time": "2023-07-22T00:34:50+00:00"
+            "time": "2023-08-25T20:04:15+00:00"
         },
         {
             "name": "google/cloud-core",
@@ -1425,16 +1425,16 @@
         },
         {
             "name": "google/cloud-translate",
-            "version": "v1.14.3",
+            "version": "v1.15.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-translate.git",
-                "reference": "5e1937c4b49356c2f4d6b5641ae5cc12c553d564"
+                "reference": "15c03ce490efe482ffbc214d29a646e86be9d51c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-translate/zipball/5e1937c4b49356c2f4d6b5641ae5cc12c553d564",
-                "reference": "5e1937c4b49356c2f4d6b5641ae5cc12c553d564",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-translate/zipball/15c03ce490efe482ffbc214d29a646e86be9d51c",
+                "reference": "15c03ce490efe482ffbc214d29a646e86be9d51c",
                 "shasum": ""
             },
             "require": {
@@ -1474,9 +1474,9 @@
             ],
             "description": "Cloud Translation Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-translate/tree/v1.14.3"
+                "source": "https://github.com/googleapis/google-cloud-php-translate/tree/v1.15.0"
             },
-            "time": "2023-07-28T20:05:21+00:00"
+            "time": "2023-08-17T19:37:27+00:00"
         },
         {
             "name": "google/common-protos",
@@ -2185,28 +2185,27 @@
         },
         {
             "name": "jordanbrauer/unit-converter",
-            "version": "v0.8.8",
+            "version": "0.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jordanbrauer/unit-converter.git",
-                "reference": "0b8dc7fdef9c86489e3c2361cabbdc5fba77c72e"
+                "reference": "a8732503f8e0c6038c805e1449dc498162bfc9a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jordanbrauer/unit-converter/zipball/0b8dc7fdef9c86489e3c2361cabbdc5fba77c72e",
-                "reference": "0b8dc7fdef9c86489e3c2361cabbdc5fba77c72e",
+                "url": "https://api.github.com/repos/jordanbrauer/unit-converter/zipball/a8732503f8e0c6038c805e1449dc498162bfc9a2",
+                "reference": "a8732503f8e0c6038c805e1449dc498162bfc9a2",
                 "shasum": ""
             },
             "require": {
                 "ext-bcmath": "*",
                 "ext-intl": "*",
-                "php": "^7.3 || ~8.0.0 || ~8.1.0"
+                "php": "^7.3 || ^8.0"
             },
             "require-dev": {
-                "ergebnis/composer-normalize": "^2.13",
-                "marcocesarato/php-conventional-changelog": "^1.9",
-                "pestphp/pest": "^1.0",
-                "phpunit/phpunit": "^9.5",
+                "ergebnis/composer-normalize": "2.20.0",
+                "marcocesarato/php-conventional-changelog": "^1.17",
+                "pestphp/pest": "v1.23.1",
                 "symfony/var-dumper": "^3.3"
             },
             "type": "library",
@@ -2228,9 +2227,9 @@
             "description": "Convert standard units from one to another with this easy to use, lightweight package",
             "support": {
                 "issues": "https://github.com/jordanbrauer/unit-converter/issues",
-                "source": "https://github.com/jordanbrauer/unit-converter/tree/v0.8.8"
+                "source": "https://github.com/jordanbrauer/unit-converter/tree/v0.9.0"
             },
-            "time": "2021-12-30T00:51:06+00:00"
+            "time": "2023-08-23T23:47:38+00:00"
         },
         {
             "name": "klarna/kco_rest",
