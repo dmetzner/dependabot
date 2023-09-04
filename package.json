@@ -109,7 +109,7 @@
     "core-js": "3.32.1",
     "hls.js": "^1.4.11",
     "i18next": "^23.4.6",
-    "i18next-http-backend": "^2.2.1",
+    "i18next-http-backend": "^2.2.2",
     "jquery": "3.7.1",
     "lottie-web": "5.12.2",
     "pinia": "2.1.6",
