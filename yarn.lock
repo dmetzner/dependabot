@@ -13385,10 +13385,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hls.js@npm:^1.4.11":
-  version: 1.4.11
-  resolution: "hls.js@npm:1.4.11"
-  checksum: 5f66e0b921aed84c103784a407fa0672f96c6fc100cd3ebbf1862cf7068b59348ca212da483209ad45b10454044b3b81bf9946cfe1fad90832ebeb2bbcd601bf
+"hls.js@npm:^1.4.12":
+  version: 1.4.12
+  resolution: "hls.js@npm:1.4.12"
+  checksum: a30c055ea1fc9ee9f4eee1b8b17f7ed7900ebe25e790de4f3097a03afb841cf138d51b67ef27e09700672395e305302d1d68b3b9f6c0bce3c1c6692fad86008c
   languageName: node
   linkType: hard
 
@@ -20047,7 +20047,7 @@ __metadata:
     file-loader: 6.2.0
     glob: ^10.3.4
     gsap: 3.12.2
-    hls.js: ^1.4.11
+    hls.js: ^1.4.12
     i18next: ^23.4.6
     i18next-http-backend: ^2.2.1
     jest: ^29.6.4
