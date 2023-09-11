@@ -10828,12 +10828,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"custom-element-jet-brains-integration@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "custom-element-jet-brains-integration@npm:1.1.0"
+"custom-element-jet-brains-integration@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "custom-element-jet-brains-integration@npm:1.2.0"
   dependencies:
     prettier: ^2.8.0
-  checksum: 7a26d006437746a7a92ff039ac4c6fca7a57aa128d6527f69c4b071548c59b5548a940e624eb44ba056899301f4cfddef98fdcf4f4473191be9da5e7a93aee01
+  checksum: fa49e77271ddfff1ff316b9c471dacf8308fbc6ed776e01d66a42ef9ee4e6341ccef77db7e63485544565634c95b582056ece16d6dd193ddfc5dbf330e20bb4a
   languageName: node
   linkType: hard
 
@@ -20038,7 +20038,7 @@ __metadata:
     coa: 2.0.2
     core-js: 3.32.1
     cross-env: 7.0.3
-    custom-element-jet-brains-integration: ^1.1.0
+    custom-element-jet-brains-integration: ^1.2.0
     cypress: 12.17.3
     cypress-image-diff-js: 1.28.0
     eslint: 8.48.0
