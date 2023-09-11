@@ -90,7 +90,7 @@
   "packageManager": "yarn@3.2.0",
   "dependencies": {
     "@adobe/react-spectrum": "3.29.0",
-    "@googlemaps/extended-component-library": "^0.4.0",
+    "@googlemaps/extended-component-library": "^0.4.2",
     "@googlemaps/js-api-loader": "^1.16.2",
     "@googlemaps/markerclusterer": "^2.4.0",
     "@lit-labs/context": "0.4.0",

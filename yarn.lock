@@ -2912,15 +2912,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@googlemaps/extended-component-library@npm:^0.4.0":
-  version: 0.4.0
-  resolution: "@googlemaps/extended-component-library@npm:0.4.0"
+"@googlemaps/extended-component-library@npm:^0.4.2":
+  version: 0.4.2
+  resolution: "@googlemaps/extended-component-library@npm:0.4.2"
   dependencies:
     "@lit-labs/context": ^0.3.1
     "@lit-labs/react": ^1.2.0
     lit: ^2.3.0
     tslib: ^2.4.0
-  checksum: 3504082ee981043fc188ba13b36d824748365ddaa87c32cf92f3f81bc64dfd3bf06fa7e5a3c6a4e4a6daf92b71795c009eac191fca5a8a001ed08f08ab8af0f4
+  checksum: b0e3925a4dcba502f97994c7a17b71328203786717db158e235b46a5688e267acb1b4d4a375c954d0d29c8479fc43a93ffcf13eee23e3eee5452443a9e98a0fd
   languageName: node
   linkType: hard
 
@@ -20002,7 +20002,7 @@ __metadata:
     "@babel/preset-react": 7.22.5
     "@custom-elements-manifest/analyzer": ^0.8.4
     "@cypress/skip-test": 2.6.1
-    "@googlemaps/extended-component-library": ^0.4.0
+    "@googlemaps/extended-component-library": ^0.4.2
     "@googlemaps/js-api-loader": ^1.16.2
     "@googlemaps/markerclusterer": ^2.4.0
     "@lit-labs/context": 0.4.0
