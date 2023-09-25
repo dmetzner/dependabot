@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9db15ebe9a1ff052ac9acda27b36318c",
+    "content-hash": "4f6397561ed42dd183fd322c169fb96c",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1203,16 +1203,16 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.313.0",
+            "version": "v0.317.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "e41289c4488563af75bd291972f0fa00949e084a"
+                "reference": "a11658da6e5ba713e3d636544895bb0af3c27689"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/e41289c4488563af75bd291972f0fa00949e084a",
-                "reference": "e41289c4488563af75bd291972f0fa00949e084a",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/a11658da6e5ba713e3d636544895bb0af3c27689",
+                "reference": "a11658da6e5ba713e3d636544895bb0af3c27689",
                 "shasum": ""
             },
             "require": {
@@ -1241,9 +1241,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.313.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.317.0"
             },
-            "time": "2023-08-25T01:10:13+00:00"
+            "time": "2023-09-24T01:06:13+00:00"
         },
         {
             "name": "google/auth",
@@ -13464,5 +13464,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
