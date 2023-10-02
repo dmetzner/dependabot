@@ -73,7 +73,7 @@
     "ext-xmlwriter": "*",
     "ext-zip": "*",
     "ext-zlib": "*",
-    "aws/aws-sdk-php": "3.280.*",
+    "aws/aws-sdk-php": "3.282.*",
     "google/auth": "1.26.*",
     "etrias/cups-ipp": "*",
     "phpseclib/phpseclib": "3.0.*",
