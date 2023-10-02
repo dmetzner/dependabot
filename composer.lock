@@ -1360,16 +1360,16 @@
         },
         {
             "name": "google/cloud-core",
-            "version": "v1.52.3",
+            "version": "v1.52.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-core.git",
-                "reference": "2ae714abfbf979cb52de26227a87e42bfdfb6347"
+                "reference": "28765cf75bd028ed063b0422b9c85bb9a54c41ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-core/zipball/2ae714abfbf979cb52de26227a87e42bfdfb6347",
-                "reference": "2ae714abfbf979cb52de26227a87e42bfdfb6347",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-core/zipball/28765cf75bd028ed063b0422b9c85bb9a54c41ca",
+                "reference": "28765cf75bd028ed063b0422b9c85bb9a54c41ca",
                 "shasum": ""
             },
             "require": {
@@ -1419,22 +1419,22 @@
             ],
             "description": "Google Cloud PHP shared dependency, providing functionality useful to all components.",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-core/tree/v1.52.3"
+                "source": "https://github.com/googleapis/google-cloud-php-core/tree/v1.52.5"
             },
-            "time": "2023-08-25T20:04:15+00:00"
+            "time": "2023-09-30T16:50:41+00:00"
         },
         {
             "name": "google/cloud-translate",
-            "version": "v1.15.0",
+            "version": "v1.15.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-translate.git",
-                "reference": "15c03ce490efe482ffbc214d29a646e86be9d51c"
+                "reference": "9a4f46b5499bec993308aeb6ed5d8b32baf67489"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-translate/zipball/15c03ce490efe482ffbc214d29a646e86be9d51c",
-                "reference": "15c03ce490efe482ffbc214d29a646e86be9d51c",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-translate/zipball/9a4f46b5499bec993308aeb6ed5d8b32baf67489",
+                "reference": "9a4f46b5499bec993308aeb6ed5d8b32baf67489",
                 "shasum": ""
             },
             "require": {
@@ -1474,9 +1474,9 @@
             ],
             "description": "Cloud Translation Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-translate/tree/v1.15.0"
+                "source": "https://github.com/googleapis/google-cloud-php-translate/tree/v1.15.2"
             },
-            "time": "2023-08-17T19:37:27+00:00"
+            "time": "2023-09-30T16:50:41+00:00"
         },
         {
             "name": "google/common-protos",
@@ -1677,16 +1677,16 @@
         },
         {
             "name": "google/protobuf",
-            "version": "v3.24.2",
+            "version": "v3.24.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protocolbuffers/protobuf-php.git",
-                "reference": "c1043089b14d4b41798b1665b9fbc58ca0f0383d"
+                "reference": "2fc191fc5e137829081b8700086ac6ed7003b925"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/c1043089b14d4b41798b1665b9fbc58ca0f0383d",
-                "reference": "c1043089b14d4b41798b1665b9fbc58ca0f0383d",
+                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/2fc191fc5e137829081b8700086ac6ed7003b925",
+                "reference": "2fc191fc5e137829081b8700086ac6ed7003b925",
                 "shasum": ""
             },
             "require": {
@@ -1715,9 +1715,9 @@
                 "proto"
             ],
             "support": {
-                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v3.24.2"
+                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v3.24.3"
             },
-            "time": "2023-08-25T20:17:43+00:00"
+            "time": "2023-09-07T15:39:13+00:00"
         },
         {
             "name": "googleads/google-ads-php",
@@ -13464,5 +13464,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
