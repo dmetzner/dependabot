@@ -95,7 +95,7 @@
     "@googlemaps/markerclusterer": "^2.4.0",
     "@lit-labs/context": "0.4.0",
     "@popperjs/core": "2.11.8",
-    "@shoelace-style/shoelace": "^2.8.0",
+    "@shoelace-style/shoelace": "^2.9.0",
     "@spectrum-icons/color": "3.5.4",
     "@spectrum-icons/illustrations": "3.6.4",
     "@spectrum-icons/ui": "3.5.4",

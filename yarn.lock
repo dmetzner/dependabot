@@ -2677,10 +2677,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ctrl/tinycolor@npm:^3.5.0":
-  version: 3.6.1
-  resolution: "@ctrl/tinycolor@npm:3.6.1"
-  checksum: cefec6fcaaa3eb8ddf193f981e097dccf63b97b93b1e861cb18c645654824c831a568f444996e15ee509f255658ed82fba11c5365494a6e25b9b12ac454099e0
+"@ctrl/tinycolor@npm:^4.0.1":
+  version: 4.0.2
+  resolution: "@ctrl/tinycolor@npm:4.0.2"
+  checksum: e2e7f587c5cd64f3f6f6363924ef8e1ddf3d5050a7437f67710e011cf9881a31563070ebbf5477cfb935b313749d6e5a4bed40e0b0aec8a230a2e0f95e99daf0
   languageName: node
   linkType: hard
 
@@ -3647,12 +3647,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lit-labs/react@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "@lit-labs/react@npm:2.0.1"
+"@lit-labs/react@npm:^2.0.3":
+  version: 2.1.0
+  resolution: "@lit-labs/react@npm:2.1.0"
   peerDependencies:
     "@types/react": 17 || 18
-  checksum: 209f970ae3218cce7be0ab91df2670795884141957bbc6115caf35fed3c25ea77010e03e680ca6355cdbb494bd9dd63528e1181edfaeb0567bdb47d7086ce5d4
+  checksum: 64f97700ad7a627b388bfbb82d991430623946c9a695e29f0212f66d60fa500db9061344a1a5a0722642211f4a32f30d9d4be06d50ae1d96ecff517e785ab661
   languageName: node
   linkType: hard
 
@@ -6587,19 +6587,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@shoelace-style/shoelace@npm:^2.8.0":
-  version: 2.8.0
-  resolution: "@shoelace-style/shoelace@npm:2.8.0"
+"@shoelace-style/shoelace@npm:^2.9.0":
+  version: 2.9.0
+  resolution: "@shoelace-style/shoelace@npm:2.9.0"
   dependencies:
-    "@ctrl/tinycolor": ^3.5.0
+    "@ctrl/tinycolor": ^4.0.1
     "@floating-ui/dom": ^1.2.1
-    "@lit-labs/react": ^2.0.1
+    "@lit-labs/react": ^2.0.3
     "@shoelace-style/animations": ^1.1.0
     "@shoelace-style/localize": ^3.1.1
     composed-offset-position: ^0.0.4
     lit: ^2.7.5
     qr-creator: ^1.0.0
-  checksum: c585bf76cb3aece793080329937e8baa746b6e5d32c1c6f2d1c5f3d37b08920b1b74457fcced3d2a44ef239094564a7587bc484ff3fef4e0d495f72e48d0a5e9
+  checksum: d4036b55031bbad8fda1d3d3bd4ba92bcb0408ed8b43835dc7d95ef00af7f839065c3891bde0bf299c4f4db72e5e20ae642fd9630e00f676ded829558b6b278e
   languageName: node
   linkType: hard
 
@@ -20007,7 +20007,7 @@ __metadata:
     "@googlemaps/markerclusterer": ^2.4.0
     "@lit-labs/context": 0.4.0
     "@popperjs/core": 2.11.8
-    "@shoelace-style/shoelace": ^2.8.0
+    "@shoelace-style/shoelace": ^2.9.0
     "@spectrum-icons/color": 3.5.4
     "@spectrum-icons/illustrations": 3.6.4
     "@spectrum-icons/ui": 3.5.4
