@@ -7304,12 +7304,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jquery@npm:3.5.17":
-  version: 3.5.17
-  resolution: "@types/jquery@npm:3.5.17"
+"@types/jquery@npm:3.5.22":
+  version: 3.5.22
+  resolution: "@types/jquery@npm:3.5.22"
   dependencies:
     "@types/sizzle": "*"
-  checksum: be289003382a8d4a1c6eab9c68845e919e467926557493033e78f6793ed8acd482b01b7b47955e4bf51f65f9b05607beccb32d31d649a2b42f3b07f1444d1f1a
+  checksum: b81c95e27bb30686c1ad5d3f414781243d0cbb468b91d5584dedd3d3ca07ac99796d876e257a7246d6d9b69916bbb0cd0508142ab9f88848605c6d431144d729
   languageName: node
   linkType: hard
 
@@ -20015,7 +20015,7 @@ __metadata:
     "@symfony/webpack-encore": 4.4.0
     "@types/google.maps": ^3.54.0
     "@types/jest": ^29.5.4
-    "@types/jquery": 3.5.17
+    "@types/jquery": 3.5.22
     "@types/node": ^20.5.7
     "@types/react": 18.2.21
     "@types/react-dom": 18.2.7
