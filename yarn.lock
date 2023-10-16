@@ -2912,15 +2912,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@googlemaps/extended-component-library@npm:^0.4.0":
-  version: 0.4.0
-  resolution: "@googlemaps/extended-component-library@npm:0.4.0"
+"@googlemaps/extended-component-library@npm:^0.4.3":
+  version: 0.4.3
+  resolution: "@googlemaps/extended-component-library@npm:0.4.3"
   dependencies:
-    "@lit-labs/context": ^0.3.1
     "@lit-labs/react": ^1.2.0
-    lit: ^2.3.0
+    "@lit/context": ^1.0.0
+    lit: ^3.0.0
     tslib: ^2.4.0
-  checksum: 3504082ee981043fc188ba13b36d824748365ddaa87c32cf92f3f81bc64dfd3bf06fa7e5a3c6a4e4a6daf92b71795c009eac191fca5a8a001ed08f08ab8af0f4
+  checksum: be906d3595dd4d71c78c22d52d8aff4235cc7e56647f83f49a1a90ac2b822e4669e1c8c020e4f516058ecda728f9dd8c91952c503177e3530ac134b5dcf93f9e
   languageName: node
   linkType: hard
 
@@ -3630,16 +3630,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lit-labs/context@npm:^0.3.1":
-  version: 0.3.3
-  resolution: "@lit-labs/context@npm:0.3.3"
-  dependencies:
-    "@lit/reactive-element": ^1.5.0
-    lit: ^2.7.0
-  checksum: 3607a7f965f22072feeef8db791e37be45921d9168ea3f432e160cb1fb337de19b2b41a2cd8db5d4fd2675d704d567a24695b796d0b14590616e9232f27579d3
-  languageName: node
-  linkType: hard
-
 "@lit-labs/react@npm:^1.2.0":
   version: 1.2.1
   resolution: "@lit-labs/react@npm:1.2.1"
@@ -3663,12 +3653,38 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@lit-labs/ssr-dom-shim@npm:^1.1.2-pre.0":
+  version: 1.1.2
+  resolution: "@lit-labs/ssr-dom-shim@npm:1.1.2"
+  checksum: 73fd787893851d4ec4aaa5c775405ed2aae4ca0891b2dd3c973b32c2f4bf70ada5481dd0224e52b786d037aa8a00052186ad1623c44551affd66f6409cca8da6
+  languageName: node
+  linkType: hard
+
+"@lit/context@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@lit/context@npm:1.0.0"
+  dependencies:
+    "@lit/reactive-element": ^1.6.2 || ^2.0.0
+    lit: ^2.7.5 || ^3.0.0
+  checksum: fe9a237ba79c2cf41dec1fbf31ca7a46593e64f549aa72ef11d83f32d6a4881bbd768ce9591e2b1a83ba1c8f5cae260d3f044c729c6f8d291771225b535bd588
+  languageName: node
+  linkType: hard
+
 "@lit/reactive-element@npm:^1.3.0, @lit/reactive-element@npm:^1.5.0, @lit/reactive-element@npm:^1.6.0":
   version: 1.6.3
   resolution: "@lit/reactive-element@npm:1.6.3"
   dependencies:
     "@lit-labs/ssr-dom-shim": ^1.0.0
   checksum: 79b58631c38effeabad090070324431da8a22cf0ff665f5e4de35e4d791f984742b3d340c9c7fce996d1124a8da95febc582471b4c237236c770b1300b56ef6e
+  languageName: node
+  linkType: hard
+
+"@lit/reactive-element@npm:^1.6.2 || ^2.0.0, @lit/reactive-element@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "@lit/reactive-element@npm:2.0.0"
+  dependencies:
+    "@lit-labs/ssr-dom-shim": ^1.1.2-pre.0
+  checksum: afa12f1cf72e8735cb7eaa51d428610785ee796882ca52108310e75ac54bbf5690da718c8bf85d042060f98c139ff0d5efd54f677a9d3fc4d794ad2e0f7a12c5
   languageName: node
   linkType: hard
 
@@ -15906,6 +15922,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"lit-element@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "lit-element@npm:4.0.0"
+  dependencies:
+    "@lit-labs/ssr-dom-shim": ^1.1.2-pre.0
+    "@lit/reactive-element": ^2.0.0
+    lit-html: ^3.0.0
+  checksum: 788ea8ed0883d656583843dc4bbdfcb698f3a4c442a529bf861131e5741239e1076e8809e29b7733dccf6baea72a827aa3cccd444aca2ebe1dd04409608753f9
+  languageName: node
+  linkType: hard
+
 "lit-html@npm:^2.0.1, lit-html@npm:^2.8.0":
   version: 2.8.0
   resolution: "lit-html@npm:2.8.0"
@@ -15915,7 +15942,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lit@npm:^2.3.0, lit@npm:^2.7.0, lit@npm:^2.7.5, lit@npm:^2.8.0":
+"lit-html@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "lit-html@npm:3.0.0"
+  dependencies:
+    "@types/trusted-types": ^2.0.2
+  checksum: 1df6bc84a30b9f848962483f456fe820ddac0f836476af8e2e01e4388def21afc129631acde2ad29c761df724b932ddd4d5be87146d8e98c25bc049076f3e4b8
+  languageName: node
+  linkType: hard
+
+"lit@npm:^2.7.0, lit@npm:^2.7.5, lit@npm:^2.8.0":
   version: 2.8.0
   resolution: "lit@npm:2.8.0"
   dependencies:
@@ -15923,6 +15959,17 @@ __metadata:
     lit-element: ^3.3.0
     lit-html: ^2.8.0
   checksum: 2480e733f7d022d3ecba91abc58a20968f0ca8f5fa30b3341ecf4bcf4845e674ad27b721a5ae53529cafc6ca603c015b80d0979ceb7a711e268ef20bb6bc7527
+  languageName: node
+  linkType: hard
+
+"lit@npm:^2.7.5 || ^3.0.0, lit@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "lit@npm:3.0.0"
+  dependencies:
+    "@lit/reactive-element": ^2.0.0
+    lit-element: ^4.0.0
+    lit-html: ^3.0.0
+  checksum: 562e53d2902112f55949ff92244ab7a198abdd35455657e364f866954958b22f536f79c02f11a12f00f5b69799e28d4e27917fb120d7216491cb2a526b5ee718
   languageName: node
   linkType: hard
 
@@ -20002,7 +20049,7 @@ __metadata:
     "@babel/preset-react": 7.22.5
     "@custom-elements-manifest/analyzer": ^0.8.4
     "@cypress/skip-test": 2.6.1
-    "@googlemaps/extended-component-library": ^0.4.0
+    "@googlemaps/extended-component-library": ^0.4.3
     "@googlemaps/js-api-loader": ^1.16.2
     "@googlemaps/markerclusterer": ^2.4.0
     "@lit-labs/context": 0.4.0
