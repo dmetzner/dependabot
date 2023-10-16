@@ -42,7 +42,7 @@
     "jest-junit": "^16.0.0",
     "lit": "^2.8.0",
     "mini-css-extract-plugin": "2.7.6",
-    "n": "9.1.0",
+    "n": "9.2.0",
     "parallel-webpack": "^2.6.0",
     "postcss": "8.4.29",
     "postcss-combine-duplicated-selectors": "10.0.3",

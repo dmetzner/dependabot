@@ -16643,12 +16643,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"n@npm:9.1.0":
-  version: 9.1.0
-  resolution: "n@npm:9.1.0"
+"n@npm:9.2.0":
+  version: 9.2.0
+  resolution: "n@npm:9.2.0"
   bin:
     n: bin/n
-  checksum: 57434f6dd3ab5a4c5c6bd4f4706bd4bcf7e75cde1eff21fba664edaa87853a1ed29fead31e331bd6eac4014d57539dde4f24f0c4db457ac23fb18ee0c71f34be
+  checksum: 273bfea765304851d87474b8001af6291445d02e0786575e488f128764d94aa2c5a7e1fc8902b9dca0687189bb2169b42dd481ed4af27be7cb90c102aeb86026
   conditions: "!os=win32"
   languageName: node
   linkType: hard
@@ -20057,7 +20057,7 @@ __metadata:
     lit: ^2.8.0
     lottie-web: 5.12.2
     mini-css-extract-plugin: 2.7.6
-    n: 9.1.0
+    n: 9.2.0
     parallel-webpack: ^2.6.0
     pinia: 2.1.6
     popper.js: 1.16.1
