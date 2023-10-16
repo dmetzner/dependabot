@@ -30,7 +30,7 @@
     "cross-env": "7.0.3",
     "custom-element-jet-brains-integration": "^1.1.0",
     "cypress": "12.17.3",
-    "cypress-image-diff-js": "1.28.0",
+    "cypress-image-diff-js": "1.31.0",
     "eslint": "8.48.0",
     "eslint-webpack-plugin": "4.0.1",
     "events": "^3.3.0",
