@@ -2124,16 +2124,16 @@
         },
         {
             "name": "jejik/mt940",
-            "version": "0.6.0",
+            "version": "0.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sandermarechal/jejik-mt940.git",
-                "reference": "482bccc19a6ce0253b8fbfbaa4c37ae821f56745"
+                "reference": "2520146583b94a874d79e5f3536bfa7735c86fde"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sandermarechal/jejik-mt940/zipball/482bccc19a6ce0253b8fbfbaa4c37ae821f56745",
-                "reference": "482bccc19a6ce0253b8fbfbaa4c37ae821f56745",
+                "url": "https://api.github.com/repos/sandermarechal/jejik-mt940/zipball/2520146583b94a874d79e5f3536bfa7735c86fde",
+                "reference": "2520146583b94a874d79e5f3536bfa7735c86fde",
                 "shasum": ""
             },
             "require": {
@@ -2173,9 +2173,9 @@
             ],
             "support": {
                 "issues": "https://github.com/sandermarechal/jejik-mt940/issues",
-                "source": "https://github.com/sandermarechal/jejik-mt940/tree/0.6.0"
+                "source": "https://github.com/sandermarechal/jejik-mt940/tree/0.6.1"
             },
-            "time": "2023-02-06T23:38:58+00:00"
+            "time": "2023-11-06T13:33:12+00:00"
         },
         {
             "name": "jordanbrauer/unit-converter",
@@ -13303,5 +13303,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
