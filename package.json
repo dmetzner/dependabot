@@ -64,7 +64,7 @@
     "ts-node": "^10.9.1",
     "tsconfig-paths-webpack-plugin": "^4.1.0",
     "typescript": "5.2.2",
-    "vue-loader": "17.3.0",
+    "vue-loader": "17.3.1",
     "webpack": "5.89.0",
     "webpack-cli": "5.1.4",
     "webpack-notifier": "1.15.0",
