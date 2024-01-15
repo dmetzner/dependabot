@@ -115,7 +115,7 @@
     "hls.js": "^1.4.12",
     "i18next": "^23.5.1",
     "i18next-http-backend": "^2.2.2",
-    "ibantools": "^4.3.5",
+    "ibantools": "^4.3.9",
     "jquery": "3.7.1",
     "lottie-web": "5.12.2",
     "pinia": "2.1.7",
