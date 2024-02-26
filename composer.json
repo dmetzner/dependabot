@@ -78,7 +78,7 @@
     "fabianwennink/iconcaptcha": "4.0.*",
     "google/apiclient": "2.15.*",
     "google/apiclient-services": "0.336.*",
-    "google/auth": "1.36.*",
+    "google/auth": "1.37.*",
     "google/cloud-bigquery": "1.29.*",
     "google/cloud-core": "1.55.*",
     "google/cloud-storage": "1.38.*",
