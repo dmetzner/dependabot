@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b13cf66722bad798fbc34427a54a85ad",
+    "content-hash": "d01c6f61e79b3669589c4e2e9036f51a",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1231,20 +1231,20 @@
         },
         {
             "name": "google/cloud-bigquery",
-            "version": "v1.29.1",
+            "version": "v1.30.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-bigquery.git",
-                "reference": "6bb1af7741303598312c2ad44f9c153759b953a0"
+                "reference": "727da6cd8e34c3e9958fea2685be6616c2e098df"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-bigquery/zipball/6bb1af7741303598312c2ad44f9c153759b953a0",
-                "reference": "6bb1af7741303598312c2ad44f9c153759b953a0",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-bigquery/zipball/727da6cd8e34c3e9958fea2685be6616c2e098df",
+                "reference": "727da6cd8e34c3e9958fea2685be6616c2e098df",
                 "shasum": ""
             },
             "require": {
-                "google/cloud-core": "^1.53",
+                "google/cloud-core": "^1.55",
                 "php": ">=7.4",
                 "ramsey/uuid": "^3.0|^4.0"
             },
@@ -1281,9 +1281,9 @@
             ],
             "description": "BigQuery Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-bigquery/tree/v1.29.1"
+                "source": "https://github.com/googleapis/google-cloud-php-bigquery/tree/v1.30.0"
             },
-            "time": "2024-01-26T20:27:24+00:00"
+            "time": "2024-02-23T23:49:35+00:00"
         },
         {
             "name": "google/cloud-core",
@@ -1518,16 +1518,16 @@
         },
         {
             "name": "google/gax",
-            "version": "v1.28.1",
+            "version": "v1.29.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/gax-php.git",
-                "reference": "9b128406e64bebe2718872966c73fcfb8a53a417"
+                "reference": "58ff20e419412046cf4357ed3ff2facc30aa2364"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/gax-php/zipball/9b128406e64bebe2718872966c73fcfb8a53a417",
-                "reference": "9b128406e64bebe2718872966c73fcfb8a53a417",
+                "url": "https://api.github.com/repos/googleapis/gax-php/zipball/58ff20e419412046cf4357ed3ff2facc30aa2364",
+                "reference": "58ff20e419412046cf4357ed3ff2facc30aa2364",
                 "shasum": ""
             },
             "require": {
@@ -1567,9 +1567,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/gax-php/issues",
-                "source": "https://github.com/googleapis/gax-php/tree/v1.28.1"
+                "source": "https://github.com/googleapis/gax-php/tree/v1.29.0"
             },
-            "time": "2024-02-20T15:26:16+00:00"
+            "time": "2024-02-26T14:31:35+00:00"
         },
         {
             "name": "google/grpc-gcp",
@@ -13196,5 +13196,5 @@
     "platform-overrides": {
         "php": "8.2"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
