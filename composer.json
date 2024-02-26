@@ -81,7 +81,7 @@
     "google/auth": "1.36.*",
     "google/cloud-bigquery": "1.29.*",
     "google/cloud-core": "1.55.*",
-    "google/cloud-storage": "1.38.*",
+    "google/cloud-storage": "1.39.*",
     "google/cloud-translate": "1.17.*",
     "googleads/google-ads-php": "22.0.*",
     "graylog2/gelf-php": "2.0.*",
