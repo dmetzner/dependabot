@@ -79,7 +79,7 @@
     "google/apiclient": "2.15.*",
     "google/apiclient-services": "0.336.*",
     "google/auth": "1.36.*",
-    "google/cloud-bigquery": "1.29.*",
+    "google/cloud-bigquery": "1.30.*",
     "google/cloud-core": "1.55.*",
     "google/cloud-storage": "1.38.*",
     "google/cloud-translate": "1.17.*",
