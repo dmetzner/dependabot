@@ -15,7 +15,7 @@
     "@types/jest": "29.5.12",
     "@types/jquery": "3.5.29",
     "@types/node": "20.11.19",
-    "@types/react": "18.2.57",
+    "@types/react": "18.2.70",
     "@types/react-dom": "18.2.19",
     "@types/webpack": "5.28.5",
     "@types/winbox": "0.2.5",
