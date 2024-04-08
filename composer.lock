@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b13cf66722bad798fbc34427a54a85ad",
+    "content-hash": "8e82c55224d43c621ff6a950f8ae0f76",
     "packages": [
         {
             "name": "adyen/php-api-library",
-            "version": "v16.0.0",
+            "version": "v17.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Adyen/adyen-php-api-library.git",
-                "reference": "5a21e4295a92474dd9c0db410461a4b7b810a742"
+                "reference": "e1e5debf21598ea87e9057fba5862818da61f761"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Adyen/adyen-php-api-library/zipball/5a21e4295a92474dd9c0db410461a4b7b810a742",
-                "reference": "5a21e4295a92474dd9c0db410461a4b7b810a742",
+                "url": "https://api.github.com/repos/Adyen/adyen-php-api-library/zipball/e1e5debf21598ea87e9057fba5862818da61f761",
+                "reference": "e1e5debf21598ea87e9057fba5862818da61f761",
                 "shasum": ""
             },
             "require": {
@@ -31,9 +31,9 @@
             "require-dev": {
                 "dms/phpunit-arraysubset-asserts": "0.5.0",
                 "friendsofphp/php-cs-fixer": "*",
-                "php-coveralls/php-coveralls": "2.6.0",
-                "phpunit/phpunit": "9.6.13",
-                "squizlabs/php_codesniffer": "3.7.2"
+                "php-coveralls/php-coveralls": "2.7.0",
+                "phpunit/phpunit": "9.6.18",
+                "squizlabs/php_codesniffer": "3.9.0"
             },
             "type": "library",
             "autoload": {
@@ -52,9 +52,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Adyen/adyen-php-api-library/issues",
-                "source": "https://github.com/Adyen/adyen-php-api-library/tree/v16.0.0"
+                "source": "https://github.com/Adyen/adyen-php-api-library/tree/v17.4.0"
             },
-            "time": "2023-11-08T12:13:21+00:00"
+            "time": "2024-04-03T08:42:46+00:00"
         },
         {
             "name": "amzn/amazon-pay-api-sdk-php",
@@ -13196,5 +13196,5 @@
     "platform-overrides": {
         "php": "8.2"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
